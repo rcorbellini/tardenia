@@ -16,11 +16,14 @@ skills:
 status:
   hp: 90
   hp_max: 90
-  hunger: saciado
-  fatigue: moderado
-  action: observa Farejador, o Cão, com curiosidade, notando sua fome e carência
+  hunger: com fome
+  fatigue: 110
+  action: se levantar do chão, esticando os músculos cansados e abrindo os olhos para o dia que está começando
   mood: amigável
   conditions: "[]"
+  fatigue_max: 110
+  hunger_ts: 1787231943.8432946
+  hunger_note: 0
 origin: editorial
 ---
 

@@ -10,7 +10,7 @@ weight_kg: 0.25
 wearable:
   slot: cintura
 state:
-  slot: mao
+  slot: cintura
 ---
 
 Lâmina curta e curva, o cabo enrolado em corda encerada para não escorregar

@@ -7,5 +7,4 @@ weight_kg: 0.15
 origin: editorial
 ---
 
-Uma maçã vermelha, firme e brilhante, ainda pendurada entre as folhas — o
-tipo de fruta que qualquer um arrancaria sem pensar duas vezes.
+maçã vermelha, com a metade comida

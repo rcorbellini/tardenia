@@ -9,4 +9,4 @@ currency: true
 origin: editorial
 ---
 
-Uma moeda de prata de cunho gasto, ainda com brilho nas bordas.
+moeda de prata, com uma pequena marca de mordida
