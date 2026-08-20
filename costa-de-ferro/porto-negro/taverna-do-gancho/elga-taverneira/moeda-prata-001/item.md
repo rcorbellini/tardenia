@@ -11,4 +11,4 @@ state:
   slot: mao
 ---
 
-moeda de prata, com uma pequena marca de mordida e um canto ligeiramente achatado
+Uma moeda de prata de cunho gasto, ainda com brilho nas bordas.

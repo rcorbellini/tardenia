@@ -9,4 +9,4 @@ currency: true
 origin: editorial
 ---
 
-moeda de cobre, sem marcas de uso
+Uma moedinha de cobre, escura de tanto passar de mão em mão.
