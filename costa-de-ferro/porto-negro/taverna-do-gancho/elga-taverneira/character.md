@@ -18,7 +18,7 @@ status:
   hp_max: 90
   hunger: com fome
   fatigue: 110
-  action: se levantar do chão, esticando os músculos cansados e abrindo os olhos para o dia que está começando
+  action: o prato que estava no fogo ficou pronto
   mood: amigável
   conditions: "[]"
   fatigue_max: 110
