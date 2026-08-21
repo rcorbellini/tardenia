@@ -18,7 +18,7 @@ status:
   hp_max: 90
   hunger: com fome
   fatigue: 110
-  action: o prato que estava no fogo ficou pronto
+  action: pergunta ao Vranna, a Vigia Esquecida
   mood: amigável
   conditions: "[]"
   fatigue_max: 110

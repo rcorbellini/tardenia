@@ -4,7 +4,7 @@ id: mem-marido-da-taverneira
 kind: acontecimento
 involved: [elga-taverneira]
 timestamp_start: 1721558234
-timestamp_end: 4102444800
+timestamp_end: 4118212800
 intensity: giant
 state: active
 summary: A manhã de vento norte, e o barco que não voltou
