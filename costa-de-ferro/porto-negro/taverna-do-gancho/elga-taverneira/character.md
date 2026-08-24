@@ -16,14 +16,15 @@ skills:
 status:
   hp: 90
   hp_max: 90
-  hunger: com fome
-  fatigue: 110
-  action: pergunta ao Vranna, a Vigia Esquecida
+  hunger: saciado
+  fatigue: 57
+  action: deitar-se para dormir
   mood: amigável
   conditions: "[]"
   fatigue_max: 110
-  hunger_ts: 1787231943.8432946
-  hunger_note: 0
+  hunger_ts: 1787279729.7323313
+  hunger_note: 7
+  descansando_desde: 1787300894.1108015
 origin: editorial
 ---
 
