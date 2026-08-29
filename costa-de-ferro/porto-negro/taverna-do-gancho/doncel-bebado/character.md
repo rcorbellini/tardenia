@@ -11,9 +11,6 @@ attributes:
   INT: 10
   WIS: 5
   CHA: 8
-skills:
-  cambio: 3
-  bebida: 4
 status:
   hp: 24
   hp_max: 24

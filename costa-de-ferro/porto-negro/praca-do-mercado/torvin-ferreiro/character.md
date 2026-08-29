@@ -10,9 +10,6 @@ attributes:
   INT: 10
   WIS: 10
   CHA: 8
-skills:
-  ferraria: 5
-  negociacao: 2
 status:
   hp: 120
   hp_max: 120

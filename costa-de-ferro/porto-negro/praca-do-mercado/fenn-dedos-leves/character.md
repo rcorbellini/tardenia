@@ -11,9 +11,6 @@ attributes:
   INT: 12
   WIS: 10
   CHA: 13
-skills:
-  furto: 5
-  mentira: 3
 status:
   hp: 22
   hp_max: 22

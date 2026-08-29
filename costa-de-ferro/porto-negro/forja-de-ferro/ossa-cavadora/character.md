@@ -11,16 +11,12 @@ attributes:
   INT: 9
   WIS: 11
   CHA: 8
-skills:
-  mineracao: 6
-  resistencia: 4
-  orientacao_subterranea: 3
 status:
   hp: 38
   hp_max: 45
   hunger: faminta
   fatigue: 42
-  action: pergunta se ele tem comida para vender
+  action: Ossa decide erguer, encostado na forja, um pequeno cômodo próprio onde possa entrar, fechar a porta e dormir — um…
   mood: exausta mas resignada
   conditions: []
   fatigue_max: 110

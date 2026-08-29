@@ -11,10 +11,6 @@ attributes:
   INT: 16
   WIS: 13
   CHA: 11
-skills:
-  contabilidade: 6
-  avaliacao: 5
-  labia: 2
 status:
   hp: 28
   hp_max: 30

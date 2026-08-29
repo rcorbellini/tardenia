@@ -11,10 +11,6 @@ attributes:
   INT: 14
   WIS: 13
   CHA: 15
-skills:
-  negociacao: 5
-  avaliacao: 4
-  labia: 3
 status:
   hp: 60
   hp_max: 60

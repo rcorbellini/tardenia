@@ -11,9 +11,6 @@ attributes:
   INT: 13
   WIS: 10
   CHA: 14
-skills:
-  barganha: 4
-  estrada: 3
 status:
   hp: 24
   hp_max: 24

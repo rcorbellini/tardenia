@@ -11,9 +11,6 @@ attributes:
   INT: 12
   WIS: 17
   CHA: 10
-skills:
-  renda: 6
-  observar: 4
 status:
   hp: 20
   hp_max: 20

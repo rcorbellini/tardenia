@@ -10,10 +10,6 @@ attributes:
   INT: 10
   WIS: 12
   CHA: 9
-skills:
-  vigilancia: 5
-  combate: 4
-  sinalizacao: 2
 status:
   hp: 100
   hp_max: 100
@@ -24,6 +20,7 @@ status:
   conditions: []
   fatigue_max: 120
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Draven está de turno há tempo demais e não é de reclamar disso em voz alta. Ombros

@@ -10,10 +10,6 @@ attributes:
   INT: 12
   WIS: 11
   CHA: 12
-skills:
-  navegacao: 4
-  combate: 3
-  contrabando: 5
 status:
   hp: 75
   hp_max: 85

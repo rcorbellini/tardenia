@@ -11,8 +11,6 @@ attributes:
   INT: 11
   WIS: 12
   CHA: 11
-skills:
-  geral: 1
 status:
   hp: 100
   hp_max: 100

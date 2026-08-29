@@ -11,7 +11,6 @@ attributes:
   INT: 3
   WIS: 3
   CHA: 3
-skills: {}
 status:
   hp: 0
   hp_max: 40

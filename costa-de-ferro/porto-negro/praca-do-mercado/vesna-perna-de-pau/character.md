@@ -11,10 +11,6 @@ attributes:
   INT: 11
   WIS: 13
   CHA: 12
-skills:
-  navegacao: 5
-  briga_de_taverna: 3
-  nos_e_cordas: 4
 status:
   hp: 100
   hp_max: 100

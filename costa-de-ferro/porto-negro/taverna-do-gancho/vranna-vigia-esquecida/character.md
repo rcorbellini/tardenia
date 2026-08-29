@@ -10,9 +10,6 @@ attributes:
   INT: 10
   WIS: 13
   CHA: 9
-skills:
-  vigilancia: 4
-  combate-com-lanca: 3
 status:
   hp: 34
   hp_max: 34

@@ -11,9 +11,6 @@ attributes:
   INT: 12
   WIS: 9
   CHA: 13
-skills:
-  descascar_nabo: 4
-  correr: 3
 status:
   hp: 74
   hp_max: 74

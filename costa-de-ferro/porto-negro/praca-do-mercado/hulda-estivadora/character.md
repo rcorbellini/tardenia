@@ -10,9 +10,6 @@ attributes:
   INT: 9
   WIS: 12
   CHA: 10
-skills:
-  estiva: 5
-  combate: 2
 status:
   hp: 18
   hp_max: 30

@@ -11,9 +11,6 @@ attributes:
   INT: 10
   WIS: 12
   CHA: 11
-skills:
-  estrada: 5
-  carga: 4
 status:
   hp: 28
   hp_max: 28

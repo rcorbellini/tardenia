@@ -11,15 +11,13 @@ attributes:
   INT: 11
   WIS: 10
   CHA: 10
-skills:
-  geral: 1
 status:
   hp: 100
   hp_max: 100
   hunger: saciado
   thirst: sem sede
   fatigue: 0
-  action: observa a bigorna de longe
+  action: Pip junta a sucata de forja e tenta martelar alguma coisa útil dela, sem muita técnica.
   mood: ansioso
   conditions: []
 origin: editorial

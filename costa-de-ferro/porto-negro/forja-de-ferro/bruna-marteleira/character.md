@@ -11,15 +11,13 @@ attributes:
   INT: 11
   WIS: 10
   CHA: 10
-skills:
-  geral: 1
 status:
   hp: 100
   hp_max: 100
   hunger: saciado
   thirst: sem sede
   fatigue: 0
-  action: confere o fole com as costas da mão
+  action: Bruna decide erguer um pequeno depósito de ferramentas encostado na parede da forja, aproveitando tábuas e sobras de…
   mood: concentrado
   conditions: []
 origin: editorial

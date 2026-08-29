@@ -2,6 +2,7 @@
 type: character
 id: elga-taverneira
 name: Elga, a Taverneira
+image_url: /api/character/image?character_id=elga-taverneira
 controlled_by: player_local
 attributes:
   STR: 11
@@ -10,22 +11,19 @@ attributes:
   INT: 11
   WIS: 14
   CHA: 13
-skills:
-  cozinha: 4
-  negociacao: 3
 status:
   hp: 90
   hp_max: 90
   hunger: saciado
-  fatigue: 57
-  action: deitar-se para dormir
+  fatigue: 0
+  action: cozinhar o Ensopado da Taverna no fogão de ferro da taverna e preparar uma porção para Farejador, que está faminto
   mood: amigável
   conditions: "[]"
   fatigue_max: 110
   hunger_ts: 1787279729.7323313
   hunger_note: 7
-  descansando_desde: 1787300894.1108015
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Elga toca a Taverna do Gancho sozinha. Prática, de riso curto e memória longa.

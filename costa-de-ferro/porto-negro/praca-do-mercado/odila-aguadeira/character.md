@@ -11,9 +11,6 @@ attributes:
   INT: 11
   WIS: 13
   CHA: 15
-skills:
-  aguar: 5
-  conversa: 6
 status:
   hp: 22
   hp_max: 22

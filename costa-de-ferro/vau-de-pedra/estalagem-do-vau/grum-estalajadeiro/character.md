@@ -11,10 +11,6 @@ attributes:
   INT: 10
   WIS: 12
   CHA: 9
-skills:
-  culinaria: 4
-  intimidacao: 3
-  contabilidade: 2
 status:
   hp: 50
   hp_max: 50

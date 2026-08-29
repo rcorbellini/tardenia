@@ -10,8 +10,6 @@ attributes:
   INT: 12
   WIS: 15
   CHA: 10
-skills:
-  observacao: 5
 status:
   hp: 20
   hp_max: 20

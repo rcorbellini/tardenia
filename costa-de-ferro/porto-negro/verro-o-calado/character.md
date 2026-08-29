@@ -11,16 +11,13 @@ attributes:
   INT: 12
   WIS: 15
   CHA: 6
-skills:
-  amolar: 7
-  ouvir: 5
 status:
   hp: 24
   hp_max: 24
   hunger: saciado
   fatigue: 2
-  action: perguntar em voz alta
-  mood: fechado
+  action: esculpir uma estatua de pedra enorme
+  mood: irritado
   conditions: []
   fatigue_max: 110
 origin: editorial

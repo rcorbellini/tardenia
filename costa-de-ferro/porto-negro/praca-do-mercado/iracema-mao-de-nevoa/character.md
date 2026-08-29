@@ -11,10 +11,6 @@ attributes:
   INT: 13
   WIS: 15
   CHA: 12
-skills:
-  batedora_de_carteira: 5
-  ler_multidao: 4
-  costura: 2
 status:
   hp: 70
   hp_max: 70

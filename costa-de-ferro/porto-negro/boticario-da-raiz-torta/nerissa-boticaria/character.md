@@ -10,10 +10,6 @@ attributes:
   INT: 17
   WIS: 15
   CHA: 9
-skills:
-  herbalismo: 5
-  alquimia: 4
-  identificar: 3
 status:
   hp: 70
   hp_max: 70
@@ -24,6 +20,7 @@ status:
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Nerissa fala mais com as plantas do que com os clientes. Magra, de dedos manchados

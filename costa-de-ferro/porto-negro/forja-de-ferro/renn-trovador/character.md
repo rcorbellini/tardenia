@@ -10,16 +10,12 @@ attributes:
   INT: 11
   WIS: 9
   CHA: 17
-skills:
-  musica: 5
-  persuasao: 4
-  boato: 3
 status:
   hp: 60
   hp_max: 60
   hunger: saciado
   fatigue: moderado
-  action: Renn, o trovador, abaixa-se com a leveza de quem está acostumado a recolher moedas jogadas no palco e apanha o atiçador…
+  action: Renn pega o lingote de aço de vau e tenta bater uma corda-guia de metal simples pro alaúde, imitando o gesto dos…
   mood: nostálgico
   conditions: []
 origin: editorial

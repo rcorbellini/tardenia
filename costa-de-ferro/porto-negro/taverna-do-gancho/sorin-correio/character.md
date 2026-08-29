@@ -11,19 +11,16 @@ attributes:
   INT: 12
   WIS: 10
   CHA: 11
-skills:
-  furtividade: 3
-  primeiros_socorros: 1
 status:
   hp: 14
   hp_max: 40
   hunger: saciado
-  fatigue: 38
-  action: comer
+  fatigue: 2
+  action: pergunta ao Vranna, a Vigia Esquecida sobre o caminho para Beco das Sombras
   mood: assustado, mas tentando parecer calmo
   conditions: []
   fatigue_max: 100
-  hunger_ts: 1787353994.8218193
+  hunger_ts: 1787715065.3194325
   hunger_note: 7
 origin: editorial
 ---

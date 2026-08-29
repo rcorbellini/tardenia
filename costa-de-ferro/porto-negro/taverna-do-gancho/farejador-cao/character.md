@@ -11,9 +11,6 @@ attributes:
   INT: 4
   WIS: 15
   CHA: 18
-skills:
-  faro: 6
-  guarda: 3
 status:
   hp: 45
   hp_max: 45

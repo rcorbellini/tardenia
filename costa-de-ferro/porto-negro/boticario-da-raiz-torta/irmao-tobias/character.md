@@ -10,20 +10,17 @@ attributes:
   INT: 12
   WIS: 17
   CHA: 11
-skills:
-  rituais: 5
-  historia: 3
-  curandeirismo: 2
 status:
   hp: 65
   hp_max: 65
   hunger: satisfeito
   fatigue: 42
-  action: "Tobias fala devagar, com pausas longas: \"Ei, Nerissa. Perguntei sobre o caminho de Beco das Sombras. Você sabia que ele…"
+  action: age
   mood: sereno
   conditions: []
   fatigue_max: 100
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Tobias cuida do santuário há tanto tempo que já não lembra o nome do deus a quem

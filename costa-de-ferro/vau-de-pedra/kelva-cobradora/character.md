@@ -11,10 +11,6 @@ attributes:
   INT: 11
   WIS: 14
   CHA: 10
-skills:
-  percepcao: 5
-  intimidacao: 3
-  regateio: 2
 status:
   hp: 42
   hp_max: 45

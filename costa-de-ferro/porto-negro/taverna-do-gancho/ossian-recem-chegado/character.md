@@ -10,9 +10,6 @@ attributes:
   INT: 13
   WIS: 10
   CHA: 11
-skills:
-  comercio: 3
-  conversa: 2
 status:
   hp: 30
   hp_max: 30

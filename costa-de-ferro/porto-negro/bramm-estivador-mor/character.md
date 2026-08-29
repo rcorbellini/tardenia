@@ -10,8 +10,6 @@ attributes:
   INT: 8
   WIS: 10
   CHA: 9
-skills:
-  estiva: 5
 status:
   hp: 0
   hp_max: 34

@@ -10,10 +10,6 @@ attributes:
   INT: 9
   WIS: 12
   CHA: 10
-skills:
-  pesca: 5
-  nos-e-cordas: 3
-  navegacao: 2
 status:
   hp: 95
   hp_max: 95

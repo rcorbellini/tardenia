@@ -11,9 +11,6 @@ attributes:
   INT: 11
   WIS: 12
   CHA: 14
-skills:
-  pregao: 5
-  contas_de_cabeca: 4
 status:
   hp: 86
   hp_max: 86
