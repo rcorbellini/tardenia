@@ -15,7 +15,7 @@ status:
   hp_max: 65
   hunger: satisfeito
   fatigue: 42
-  action: age
+  action: acender uma vela e se aproximar de Nerissa
   mood: sereno
   conditions: []
   fatigue_max: 100
