@@ -15,8 +15,8 @@ status:
   hp: 90
   hp_max: 90
   hunger: saciado
-  fatigue: 0
-  action: o prato que estava no fogo ficou pronto
+  fatigue: 8
+  action: olhar para Farejador com atenção e tentar entender por que ele está implorando comida
   mood: amigável
   conditions: "[]"
   fatigue_max: 110

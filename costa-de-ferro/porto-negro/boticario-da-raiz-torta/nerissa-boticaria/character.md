@@ -15,7 +15,7 @@ status:
   hp_max: 70
   hunger: satisfeita
   fatigue: 19
-  action: ajustando a lenha sob o alambique e observando a destilação
+  action: abre a bolsa e começa a ler as inscrições nas ervas secas.
   mood: satisfeita
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
