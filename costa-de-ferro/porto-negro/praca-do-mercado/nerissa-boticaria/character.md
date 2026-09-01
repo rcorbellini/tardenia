@@ -13,12 +13,14 @@ attributes:
 status:
   hp: 70
   hp_max: 70
-  hunger: satisfeita
-  fatigue: 19
-  action: abre a bolsa e começa a ler as inscrições nas ervas secas.
+  hunger: sem fome
+  fatigue: 31
+  action: perguntar se tem raiz-de-ferro fresca para vender
   mood: satisfeita
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
+  hunger_ts: 1788232951.444348
+  hunger_note: 6
 origin: editorial
 owner: google:104508505271680107331
 ---

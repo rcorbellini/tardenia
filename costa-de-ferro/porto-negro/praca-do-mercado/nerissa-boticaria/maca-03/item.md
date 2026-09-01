@@ -5,6 +5,8 @@ name: Maçã
 size: PP
 weight_kg: 0.15
 origin: editorial
+state:
+  slot: mao
 ---
 
 maçã vermelha, com a metade comida
