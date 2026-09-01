@@ -14,14 +14,13 @@ status:
   hp: 70
   hp_max: 70
   hunger: sem fome
-  fatigue: 67
-  action: o que foi colhido aqui voltou a crescer
+  fatigue: 0
+  action: olha para as folhas e os frutos
   mood: satisfeita
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
   hunger_ts: 1788248953.7445827
   hunger_note: 6
-  descansando_desde: 1788252240.6812925
 origin: editorial
 owner: google:104508505271680107331
 ---
