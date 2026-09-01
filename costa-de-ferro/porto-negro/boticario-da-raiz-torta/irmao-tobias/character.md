@@ -15,10 +15,11 @@ status:
   hp_max: 65
   hunger: satisfeito
   fatigue: 42
-  action: acender uma vela e se aproximar de Nerissa
+  action: se deitar e adormecer
   mood: sereno
   conditions: []
   fatigue_max: 100
+  descansando_desde: 1788218088.6447258
 origin: editorial
 owner: google:104508505271680107331
 ---

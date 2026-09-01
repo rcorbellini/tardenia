@@ -16,7 +16,7 @@ status:
   hp_max: 90
   hunger: saciado
   fatigue: 0
-  action: cozinhar o Ensopado da Taverna no fogão de ferro da taverna e preparar uma porção para Farejador, que está faminto
+  action: o prato que estava no fogo ficou pronto
   mood: amigável
   conditions: "[]"
   fatigue_max: 110
