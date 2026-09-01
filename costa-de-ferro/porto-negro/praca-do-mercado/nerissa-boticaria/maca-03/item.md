@@ -9,4 +9,4 @@ state:
   slot: mao
 ---
 
-maçã vermelha, com a metade comida
+maçá vermelha, com a metade comida

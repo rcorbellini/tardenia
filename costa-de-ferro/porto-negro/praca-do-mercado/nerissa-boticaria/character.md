@@ -14,12 +14,12 @@ status:
   hp: 70
   hp_max: 70
   hunger: sem fome
-  fatigue: 31
-  action: perguntar se tem raiz-de-ferro fresca para vender
+  fatigue: 35
+  action: come a maçã lentamente, saboreando o sabor doce e fresco.
   mood: satisfeita
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
-  hunger_ts: 1788232951.444348
+  hunger_ts: 1788238016.8150983
   hunger_note: 6
 origin: editorial
 owner: google:104508505271680107331
