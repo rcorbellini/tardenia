@@ -16,7 +16,7 @@ status:
   hp_max: 70
   hunger: saciado
   fatigue: leve
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: o que foi colhido aqui voltou a crescer
   mood: entediada
   conditions: []
 origin: editorial

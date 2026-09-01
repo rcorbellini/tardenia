@@ -15,7 +15,7 @@ status:
   hp_max: 30
   hunger: saciado
   fatigue: 30
-  action: Hulda não diz uma palavra. Aperta o pé de cabra com mais força e olha pra Sarga como quem olha pra algo que já tentou matá-la — porque tentou.
+  action: o que foi colhido aqui voltou a crescer
   mood: cauteloso
   conditions: []
   fatigue_max: 120

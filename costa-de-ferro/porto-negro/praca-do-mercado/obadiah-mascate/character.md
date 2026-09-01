@@ -16,7 +16,7 @@ status:
   hp_max: 60
   hunger: saciado
   fatigue: 2
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: o que foi colhido aqui voltou a crescer
   mood: cordial
   conditions: []
   fatigue_max: 100

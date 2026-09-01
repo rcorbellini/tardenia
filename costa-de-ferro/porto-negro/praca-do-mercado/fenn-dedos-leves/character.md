@@ -16,7 +16,7 @@ status:
   hp_max: 22
   hunger: saciado
   fatigue: 10
-  action: Fenn olha para a frente, como se estivesse procurando algo no chão
+  action: o que foi colhido aqui voltou a crescer
   mood: atento
   conditions: []
   fatigue_max: 100

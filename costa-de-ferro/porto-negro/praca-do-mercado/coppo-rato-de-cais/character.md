@@ -15,7 +15,7 @@ status:
   hp_max: 14
   hunger: faminto
   fatigue: 15
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: o que foi colhido aqui voltou a crescer
   mood: nervoso
   conditions: []
   fatigue_max: 80

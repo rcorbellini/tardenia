@@ -16,7 +16,7 @@ status:
   hp_max: 74
   hunger: com fome
   fatigue: leve
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: o que foi colhido aqui voltou a crescer
   mood: nervoso
   conditions: []
 origin: editorial

@@ -16,7 +16,7 @@ status:
   hp_max: 22
   hunger: saciado
   fatigue: leve
-  action: Odila descarrega os cântaros do carrinho, um a um, e cumprimenta cada pessoa que passa pelo nome.
+  action: o que foi colhido aqui voltou a crescer
   mood: alegre
   conditions: []
 origin: editorial

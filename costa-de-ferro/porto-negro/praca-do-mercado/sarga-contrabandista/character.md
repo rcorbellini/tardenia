@@ -15,7 +15,7 @@ status:
   hp_max: 85
   hunger: saciado
   fatigue: 60
-  action: Sarga cobra respostas de Hulda sobre a carga que sumiu, mas Hulda não abre a boca
+  action: o que foi colhido aqui voltou a crescer
   mood: furiosa
   conditions: []
   fatigue_max: 110

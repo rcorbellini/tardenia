@@ -16,7 +16,7 @@ status:
   hp_max: 20
   hunger: saciado
   fatigue: leve
-  action: Petrila continua sentada no banquinho, bilros tinindo no regaço, ouvindo Hulda falar baixo ao lado. Os olhos dela…
+  action: o que foi colhido aqui voltou a crescer
   mood: quieto
   conditions: []
 origin: editorial

@@ -16,7 +16,7 @@ status:
   hp_max: 86
   hunger: saciado
   fatigue: moderado
-  action: parado
+  action: o que foi colhido aqui voltou a crescer
   mood: satisfeito
   conditions: []
 origin: editorial

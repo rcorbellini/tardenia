@@ -15,7 +15,7 @@ status:
   hp_max: 20
   hunger: saciado
   fatigue: leve
-  action: Mira encosta os ombros no poste gasto, olhos estreitados, e solta em voz alta o que viu sobre Sarga e Fenn — e sobre o fardo escondido atrás do poço.
+  action: o que foi colhido aqui voltou a crescer
   mood: atento
   conditions: []
 origin: editorial

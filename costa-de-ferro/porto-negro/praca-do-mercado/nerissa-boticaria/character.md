@@ -14,13 +14,14 @@ status:
   hp: 70
   hp_max: 70
   hunger: sem fome
-  fatigue: 35
-  action: come a maçã lentamente, saboreando o sabor doce e fresco.
+  fatigue: 67
+  action: o que foi colhido aqui voltou a crescer
   mood: satisfeita
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
-  hunger_ts: 1788238016.8150983
+  hunger_ts: 1788248953.7445827
   hunger_note: 6
+  descansando_desde: 1788252240.6812925
 origin: editorial
 owner: google:104508505271680107331
 ---

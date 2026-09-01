@@ -15,7 +15,7 @@ status:
   hp_max: 120
   hunger: saciado
   fatigue: 32
-  action: Torvin estende a moeda de cobre a Obadiah, pela encomenda dos cravos
+  action: o que foi colhido aqui voltou a crescer
   mood: irritado
   conditions: []
   fatigue_max: 120
