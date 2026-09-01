@@ -15,11 +15,11 @@ status:
   hp_max: 70
   hunger: sem fome
   fatigue: 0
-  action: olha para as folhas e os frutos
+  action: Nerissa morde a maçã que trazia consigo, mastigando rápido enquanto seus olhos correm pelas barracas da praça.
   mood: satisfeita
   conditions: colocou a moeda na Bolsa de Couro
   fatigue_max: 100
-  hunger_ts: 1788248953.7445827
+  hunger_ts: 1788290388.2069895
   hunger_note: 6
 origin: editorial
 owner: google:104508505271680107331
