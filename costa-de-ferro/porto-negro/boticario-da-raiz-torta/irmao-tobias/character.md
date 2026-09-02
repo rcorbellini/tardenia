@@ -14,12 +14,11 @@ status:
   hp: 65
   hp_max: 65
   hunger: satisfeito
-  fatigue: 42
-  action: se deitar e adormecer
+  fatigue: 0
+  action: pegar o frasco de tinta do chão
   mood: sereno
   conditions: []
   fatigue_max: 100
-  descansando_desde: 1788218088.6447258
 origin: editorial
 owner: google:104508505271680107331
 ---

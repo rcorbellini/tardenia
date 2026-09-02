@@ -6,6 +6,7 @@ origin: editorial
 state:
   manchados: os dedos manchados de tintura escapando do cinto de lona sujo
   action: se agacha e pega o fraso de tintura vermelha do chão
+  slot: mao
 size: PP
 weight_kg: 0.15
 ---
