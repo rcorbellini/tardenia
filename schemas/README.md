@@ -124,7 +124,9 @@ perspectiva dele (o body é a lembrança). Substitui qualquer fila de eventos (F
 Obrigatórios: `type`, `id`, `timestamp_start`, `timestamp_end`, `intensity`, `state`.
 - `timestamp_start` / `timestamp_end`: epoch em segundos (relógio real). O Árbitro decide
   o prazo via `ttl_seconds`; o Motor grava `timestamp_end = agora + ttl`.
-- `intensity`: `small | medium | large | giant` — decidida pelo Árbitro; ordena o contexto.
+- `intensity`: `trivial | small | medium | large | giant` — decidida pelo Árbitro; ordena o
+  contexto. `trivial` (6h) é o degrau abaixo de `small` (2 dias) — ação mecânica sem
+  valência nem progresso (abrir um recipiente, vestir algo), não um episódio vivido.
 - `summary` (opcional): rótulo curto (3-6 palavras) exibido na lista de memórias da lateral;
   ao clicar, mostra o body. Se ausente, o server deriva um resumo do começo do body.
 - `state`: `active | expired`. A expiração é preguiçosa (na consulta ao mundo): passado o
