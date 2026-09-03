@@ -14,8 +14,8 @@ status:
   hp: 100
   hp_max: 100
   hunger: saciado
-  fatigue: 52
-  action: perguntar em voz alta
+  fatigue: 62
+  action: acabou de chegar, ainda se ambientando ao lugar
   mood: tenso
   conditions: []
   fatigue_max: 120
