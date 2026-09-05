@@ -14,11 +14,14 @@ status:
   hp: 100
   hp_max: 100
   hunger: saciado
-  fatigue: 62
-  action: acabou de chegar, ainda se ambientando ao lugar
+  fatigue: 60
+  action: age
   mood: tenso
-  conditions: []
+  conditions: [bêbado]
   fatigue_max: 120
+  thirst: hidratado
+  thirst_ts: 1788451530.0904832
+  thirst_note: 7
 origin: editorial
 owner: google:104508505271680107331
 ---
