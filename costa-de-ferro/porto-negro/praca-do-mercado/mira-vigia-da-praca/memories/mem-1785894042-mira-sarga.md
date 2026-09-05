@@ -6,7 +6,7 @@ involved: [sarga-contrabandista, praca-do-mercado]
 timestamp_start: 1785894042
 timestamp_end: 1788572665
 intensity: small
-state: active
+state: expired
 summary: Vi Sarga esconder um fardo atrás do poço ao cair a tarde
 domain: crime
 evento: witness_theft

@@ -20,6 +20,9 @@ status:
   conditions: []
   fatigue_max: 80
 origin: editorial
+bonds:
+  - target: mira-vigia-da-praca
+    label: irmã de criação
 ---
 
 Coppo é magro de um jeito que preocupa, e rápido de um jeito que compensa. Vive

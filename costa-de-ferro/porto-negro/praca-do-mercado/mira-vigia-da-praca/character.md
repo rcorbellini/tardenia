@@ -19,6 +19,11 @@ status:
   mood: atento
   conditions: []
 origin: editorial
+bonds:
+  - target: hulda-estivadora
+    label: irmã
+  - target: praca-do-mercado
+    label: posto de observação
 ---
 
 Mira passou a vida olhando. Filha de estivador, cresceu contando quem entrava e
