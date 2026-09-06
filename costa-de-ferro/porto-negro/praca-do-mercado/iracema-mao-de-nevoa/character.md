@@ -20,6 +20,9 @@ status:
   mood: entediada
   conditions: []
 origin: editorial
+bonds:
+  - target: nuno-dedos-de-manteiga
+    label: sobrinho
 ---
 
 Iracema tem exatamente a mesma mão que Nuno — a mesma rapidez, a mesma medida de
@@ -30,6 +33,10 @@ Trabalha devagar. Encosta, conversa, elogia o tecido, e vai embora com o assunto
 antes de ir embora com a peça. Nunca correu na vida — correr é o que entrega, e
 quem corre já perdeu. Diz que roubar não é ser rápido: é ser a última coisa em
 que alguém repara.
+
+## Aparência
+Meia-idade, mãos finas e rápidas, xale sobre os ombros. Anda devagar
+e encosta em quem conversa.
 
 ## Voz e Sotaque
 Fala baixo, sem pressa, e faz perguntas sobre o interlocutor para não precisar

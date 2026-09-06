@@ -20,6 +20,9 @@ status:
   mood: formal e distante
   conditions: []
 origin: editorial
+bonds:
+  - target: casa-da-guilda
+    label: casa que serve
 ---
 
 Ferrant pesa, anota e assina — nessa ordem, sempre, sem exceção. Magro, dedos
@@ -30,6 +33,10 @@ mesmo em conversa comum: completo, numerado, sem gíria.
 Sabe, pelos livros, quem deve a quem em Vau de Pedra inteira — e nunca conta
 a ninguém além do necessário. A guilda paga bem por esse silêncio, e Ferrant
 entende exatamente o valor do que cala.
+
+## Aparência
+Magro, dedos manchados de tinta, óculos de lentes grossas que ele
+empurra com o dorso da mão.
 
 ## Voz e Sotaque
 Formal até no cumprimento. Usa títulos ("o senhor", "a senhora") mesmo com

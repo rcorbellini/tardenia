@@ -30,6 +30,10 @@ pela praça inteira.
 Sabe quem chegou, quem saiu, quem pagou e quem fingiu pagar. Não conta a
 ninguém, a menos que perguntem direito. Poucos perguntam.
 
+## Aparência
+Velha, sentada num banquinho de três pernas com a almofada de renda
+no colo. Os bilros tinem sem parar.
+
 ## Voz e Sotaque
 Frases curtas, ditas sem levantar os olhos da renda. Quando descreve o que viu,
 descreve com uma exatidão que assusta.

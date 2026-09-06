@@ -24,6 +24,9 @@ status:
   hunger_note: 7
 origin: editorial
 owner: google:104508505271680107331
+bonds:
+  - target: bram-pescador
+    label: cunhado
 ---
 
 Elga toca a Taverna do Gancho sozinha. Prática, de riso curto e memória longa.
@@ -31,3 +34,7 @@ Trata bem quem paga e melhor ainda quem conversa. Não tolera briga no seu salã
 tem um atiçador de ferro atrás do balcão para lembrar disso a quem esquece.
 
 Enquanto o ensopado não fica pronto, ela raramente levanta os olhos da panela.
+
+## Aparência
+Mãos vermelhas de água quente, avental preso alto, cabelo puxado
+para trás. Raramente levanta os olhos da panela.

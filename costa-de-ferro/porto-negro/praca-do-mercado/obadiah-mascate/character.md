@@ -42,6 +42,10 @@ paga melhor e briga menos por preço. Ainda assim, de vez em quando alguém que
 vem da costa traz notícia do ferreiro de lá, e Obadiah sempre pergunta, com
 aquele desinteresse estudado que engana pouca gente.
 
+## Aparência
+Rosto queimado de estrada, banca de couro nas costas mesmo parado.
+Um pingente de estanho no pescoço, gasto de tanto ser tocado.
+
 ## Voz e Sotaque
 Fala rápido, cheio de diminutivos e perguntas retóricas que não espera que
 respondam. Chama todo mundo de "meu bom" ou "minha boa". Quando o negócio não

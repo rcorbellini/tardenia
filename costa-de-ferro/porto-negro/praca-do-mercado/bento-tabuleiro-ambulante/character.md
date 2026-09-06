@@ -31,6 +31,10 @@ Fala com todo mundo e olha para o próprio pregão. Já perdeu peça sem nunca t
 visto ninguém pegar, e resolveu o assunto consigo mesmo decidindo que devia ter
 caído.
 
+## Aparência
+Carrega um tabuleiro de madeira preso ao peito por alça de
+couro, coberto de quinquilharia. As duas mãos sempre ocupadas segurando-o.
+
 ## Voz e Sotaque
 Grita o pregão em frases decoradas e conversa em voz normal no meio delas, sem
 transição, o que confunde quem ainda não o conhece.

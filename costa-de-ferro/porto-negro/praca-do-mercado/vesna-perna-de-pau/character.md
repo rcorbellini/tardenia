@@ -32,6 +32,9 @@ body:
   pernas: 1
   pes: 0
 origin: editorial
+bonds:
+  - target: bram-pescador
+    label: companheiro de convés
 ---
 
 Vesna passou trinta anos no convés antes que uma amarra estourada levasse metade da
@@ -41,3 +44,7 @@ a vida inteira; olhar de quem já viu carga demais mudar de dono no escuro.
 
 O pé de madeira não calça bota nem grilhão — e ela gosta assim. Diz que aprendeu a
 confiar mais no toco do que em muita gente de dois pés.
+
+## Aparência
+Anda sobre um toco de carvalho lixado até brilhar no lugar da perna
+esquerda. Braços de quem puxou corda a vida inteira.

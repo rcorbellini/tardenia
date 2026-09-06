@@ -21,6 +21,9 @@ status:
   conditions: []
   fatigue_max: 110
 origin: editorial
+bonds:
+  - target: grum-estalajadeiro
+    label: irmão
 ---
 
 Ossa desce a mina desde os doze anos e já perdeu a conta de quantos vagonetes
@@ -32,6 +35,10 @@ Guarda um pedaço de minério com veio de prata que jura ter achado sozinha, sem
 registrar — se a guilda soubesse, ela devolveria ou perderia o emprego.
 Ninguém em Vau de Pedra sabe disso, e ela pretende manter assim até decidir o
 que fazer com a pedra.
+
+## Aparência
+Baixa e dura, poeira de mina entranhada nas dobras da pele. Tosse
+seca de vez em quando e finge que não.
 
 ## Voz e Sotaque
 Fala pouco e rápido, como quem está sempre no meio de um turno. Corta frases

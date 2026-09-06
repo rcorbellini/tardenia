@@ -21,6 +21,13 @@ status:
   mood: concentrado
   conditions: []
 origin: editorial
+bonds:
+  - target: pip-aprendiz
+    label: aprendiz
 ---
 
 Vinte anos de bigorna, quase todos nesta mesma forja. Fala pouco enquanto o metal está quente e muito depois que esfria. Diz que qualquer um aprende a bater ferro, mas que ouvir o que o ferro responde leva a vida inteira.
+
+## Aparência
+Antebraços marcados de fagulha, avental de couro escurecido. Mãos
+grandes, calejadas em faixas.

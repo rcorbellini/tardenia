@@ -29,6 +29,10 @@ Carrega mais rumores do que qualquer um na cidade — e usa isso como moeda.
 Guarda uma carta que nunca teve coragem de entregar, dobrada no fundo da bolsa,
 lida tantas vezes que o vinco já rasga o papel.
 
+## Aparência
+Bem-apessoado, roupa boa e um pouco suja de estrada. Sorriso pronto;
+os olhos fogem quando alguém olha por muito tempo.
+
 ## Voz e Sotaque
 Fala em cadência quase cantada, ótimo em desviar de perguntas diretas com uma
 piada ou uma história melhor. Só perde a leveza quando alguém menciona cartas ou

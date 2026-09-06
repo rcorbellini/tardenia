@@ -30,3 +30,7 @@ Fala com quem passa. Fala com quem não passa. Se alguém para na frente dela co
 cara de perdido, ela já vai apontando antes que a pergunta termine, porque acha
 que gente perdida na cidade dela é falha sua. Não pede nada em troca: a conversa
 já é o pagamento.
+
+## Aparência
+Puxa um carrinho de cântaros que range. Voz alta, rosto vermelho de
+sol, sempre falando com alguém.

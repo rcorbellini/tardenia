@@ -35,6 +35,10 @@ por desconfiar do motivo, e já deu remédio de graça pra quem não tinha como 
 Raiz torta, segundo ela, é a que cresce em volta de obstáculo — e é sempre a mais
 forte.
 
+## Aparência
+Magra, dedos manchados de tintura, unhas cortadas rentes. Cheira a
+erva amassada.
+
 ## Voz e Sotaque
 Fala rápido e baixo, como quem pensa em voz alta. Troca de assunto sem aviso.
 Quando se irrita, começa a enumerar ingredientes como se fosse uma lista de

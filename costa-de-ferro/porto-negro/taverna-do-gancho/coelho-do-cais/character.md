@@ -29,3 +29,7 @@ Um coelho cinza-pardo, pequeno, com uma orelha rasgada de briga velha — aparec
 morto perto do fogão da Taverna do Gancho, o pescoço torto, ainda morno. Ninguém
 viu quem o trouxe nem como morreu; só está ali, no chão, ao alcance de quem
 quiser mexer.
+
+## Aparência
+Um coelho cinza-pardo, pequeno, com uma orelha rasgada. Caído no chão,
+o pescoço torto.

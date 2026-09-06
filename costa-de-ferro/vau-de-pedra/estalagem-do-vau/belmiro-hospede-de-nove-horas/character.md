@@ -33,6 +33,10 @@ lado o alcança.
 Dorme como quem descontou de uma vez a soma de todas as noites que a estrada lhe
 cobrou. Quando acordar, vai lembrar que devia estar em outro lugar.
 
+## Aparência
+Caído no banco do fundo, chapéu de aba mole cobrindo o rosto.
+Casaco com poeira de três dias.
+
 ## Voz e Sotaque
 Fala rápido e demais, engolindo o fim das frases, com o sotaque de quem vende de
 cidade em cidade. Acordado, é impossível calá-lo; dormindo, não se ouve nada.

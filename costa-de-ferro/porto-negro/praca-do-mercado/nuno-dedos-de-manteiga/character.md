@@ -32,6 +32,10 @@ ele encostar no que queria, e ele passou o resto do dia fingindo interesse em
 lona de tenda. Não guardou nada de nenhuma das duas ocasiões além da vergonha:
 não sabe o que fez de errado, e por isso não sabe o que fazer diferente.
 
+## Aparência
+Rapaz, roupa do corpo e mais nada. Mãos rápidas, olhos que não
+sabem para onde olhar.
+
 ## Voz e Sotaque
 Fala rápido e demais, principalmente quando devia calar. Ri no fim das frases,
 mesmo quando não há graça nenhuma.

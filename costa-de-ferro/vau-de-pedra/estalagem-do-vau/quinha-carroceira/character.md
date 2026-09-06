@@ -32,6 +32,10 @@ duas horas repete isso sem sair da mesa.
 O contraste com o Belmiro é o que ela mais detesta: ele dorme no banco do fundo
 desde a madrugada, e ela não conseguiu nem sentar.
 
+## Aparência
+De pé por teimosia, mãos ainda em forma de rédea. Roupa de estrada
+encharcada de suor seco.
+
 ## Voz e Sotaque
 Frases curtas, sem cerimônia, e uma teimosia que aparece na escolha de nunca dizer
 "estou cansada" — diz "ainda dá".

@@ -28,6 +28,10 @@ pressa — e chegou à Taverna do Gancho satisfeito, só de passagem para descan
 antes de tratar de negócios na praça. Carrega uma bolsa de amostras de tecido
 que tenta vender a quem parar para ouvir.
 
+## Aparência
+Roupa de viagem limpa demais para quem veio de longe. Carrega uma
+bolsa de amostras de tecido.
+
 ## Voz e Sotaque
 Fala rápido e educado, sempre pronto a puxar assunto sobre o próprio comércio.
 Some no meio de uma frase quando percebe que ninguém está interessado.

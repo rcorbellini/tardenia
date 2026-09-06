@@ -31,6 +31,10 @@ Podia haver um incêndio a três passos e ele juraria depois que não viu nada �
 estaria dizendo a verdade. O mundo, para Doncel, acontece do outro lado de uma
 neblina morna.
 
+## Aparência
+Caído sobre a própria mesa, uma balança de moedas parada ao lado.
+Roupa boa, amarrotada de dormir vestido.
+
 ## Voz e Sotaque
 Arrasta as palavras e perde o fio no meio da frase. Concorda com tudo para que o
 deixem em paz.

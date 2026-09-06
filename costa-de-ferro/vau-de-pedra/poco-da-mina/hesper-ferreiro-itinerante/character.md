@@ -21,9 +21,16 @@ status:
   mood: neutro
   conditions: []
 origin: editorial
+bonds:
+  - target: casa-da-guilda
+    label: guilda que o emprega
 ---
 
 Conserta ferramenta de mina por temporada, indo de poço em poço com a forja da
 Guilda. Não se acha ferreiro de verdade — diz que ferreiro de verdade faz coisa
 nova, e que ele só devolve à pedra o que a pedra gastou. Sabe o bastante para
 saber o que não sabe.
+
+## Aparência
+Ferramenta de forja amarrada em fardo às costas. Mãos queimadas
+de brasa em pontos antigos.

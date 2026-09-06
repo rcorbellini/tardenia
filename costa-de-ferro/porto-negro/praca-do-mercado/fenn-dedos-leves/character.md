@@ -31,6 +31,10 @@ Aprendeu cedo que uma bolsa se abre melhor num aperto — na hora em que a banca
 enche e todo mundo esbarra em todo mundo. O truque não é a mão; é escolher o
 instante em que os olhos dos outros estão em outro lugar.
 
+## Aparência
+Passo curto, mãos nos bolsos, olhar no chão. Roupa comum demais para
+se lembrar depois.
+
 ## Voz e Sotaque
 Fala baixo e rápido, e sorri antes de terminar a frase. Chama todo mundo de
 "amigo", o que raramente é verdade.

@@ -20,6 +20,11 @@ status:
   conditions: []
   inventory[0]: caneca-de-peltre-amassada
 origin: editorial
+bonds:
+  - target: elga-taverneira
+    label: cunhada
+  - target: vesna-perna-de-pau
+    label: companheira de convés
 ---
 
 Bram fala pouco e olha muito — sobretudo pro mar. Braços grossos de quem puxa
@@ -30,6 +35,10 @@ Conhece toda fofoca do cais mas só solta em troca de bebida ou silêncio
 respeitoso. Já ouviu falar da taverneira que perdeu o marido numa manhã de vento
 norte — ele estava lá, mais rio abaixo, quando aconteceu, e não gosta de falar
 sobre isso.
+
+## Aparência
+Braços grossos, pele curtida de sal e sol, unhas partidas. Cheira a
+maresia mesmo longe da água.
 
 ## Voz e Sotaque
 Frases curtas, quase rudes. Longas pausas antes de responder qualquer pergunta

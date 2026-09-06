@@ -40,3 +40,7 @@ Não tem mãos: o que ele carrega, carrega na boca — um osso, um trapo, às ve
 moeda que alguém deixou cair e ele resolveu que era dele. Uma coleira, se alguém
 conseguir pôr, ele até tolera. Faro que enxerga no escuro; memória de rosto que
 envergonha muita gente.
+
+## Aparência
+Um vira-lata cinza de porte médio, orelhas atentas, pelo sujo de praça.
+Carrega o que carrega na boca.

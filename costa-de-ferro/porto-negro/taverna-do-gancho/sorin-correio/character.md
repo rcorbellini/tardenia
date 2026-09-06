@@ -35,6 +35,10 @@ Não fala com estranhos sobre o que carregava. Fala, se perguntarem com jeito,
 sobre o quanto a estrada mudou nos últimos meses — mais silenciosa, mais
 vazia de outros viajantes, o tipo de vazio que dá mais medo que barulho.
 
+## Aparência
+Manca de um lado, costelas enfaixadas por baixo da camisa. Bolsa de
+correio quase vazia a tiracolo.
+
 ## Voz e Sotaque
 Fala baixo, poupando o fôlego. Troca de assunto rápido quando alguém pergunta
 o que ele carregava.

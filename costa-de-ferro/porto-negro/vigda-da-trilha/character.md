@@ -27,3 +27,7 @@ origin: editorial
 Guia de trilha, das que sobem e descem a encosta o ano inteiro carregando o que
 os outros não querem carregar. Conhece o caminho de olhos fechados e o frio de
 cor. Parou na clareira porque a luz acabou, não porque quisesse.
+
+## Aparência
+Vestida em camadas contra o frio da encosta, fardo grande nas costas.
+Botas de sola grossa, gastas.

@@ -30,6 +30,10 @@ ao alcance da mão.
 Uma carga sumiu na semana passada. Sarga sabe quem levou, sabe onde ele bebe, e
 está sem paciência para a terceira desculpa.
 
+## Aparência
+Forte, casaco pesado, um machado curto sempre ao alcance da mão.
+Fala pouco e olha muito.
+
 ## Voz e Sotaque
 Fala pouco e devagar, com o sotaque arrastado de quem cresceu em barco. Não
 levanta a voz: quando fica realmente irritada, fala mais baixo.

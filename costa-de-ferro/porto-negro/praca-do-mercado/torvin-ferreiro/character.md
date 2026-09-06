@@ -30,6 +30,10 @@ trabalho e reage mal a críticas à sua ferraria.
 Não foge de problemas mas tampouco os procura. Se encurralado, luta com tudo que
 tem. Se tiver saída, prefere a saída.
 
+## Aparência
+Grisalho, ombros de bigorna, queimaduras velhas nos antebraços.
+Avental de couro que já foi preto.
+
 ## Voz e Sotaque
 Tom grave e direto. Sotaque do norte da ilha, arrasta levemente os erres. Fala
 mais devagar quando está irritado — não mais rápido. Nunca grita.

@@ -31,3 +31,6 @@ Não é malcriado nem guarda mágoa de ninguém em particular. É a índole: apr
 cedo que falar dá trabalho e ouvir dá vantagem, e nunca viu razão para trocar. A
 quem pergunta, mede primeiro. Estranho recebe silêncio; e o silêncio dele não é
 recusa, é o preço de entrada.
+
+## Aparência
+Sentado num banco de canto, amolando faca. Não levanta os olhos.

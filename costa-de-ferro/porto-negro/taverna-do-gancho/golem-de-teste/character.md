@@ -24,3 +24,6 @@ Um golem feito inteiramente de pedra maciça cinzenta, agora rachado em blocos
 espalhados pelo chão — não há uma gota de sangue, nem pele, nem osso: só rocha
 esculpida, presa antes por runas agora apagadas. Não sobrou carne nenhuma nele,
 nunca sobrou.
+
+## Aparência
+Uma forma de barro cozido, sem rosto, parada onde a puseram.

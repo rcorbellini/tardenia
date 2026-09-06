@@ -32,6 +32,10 @@ Guarda, num pequeno cofre de madeira preso à barreira, o dinheiro do dia — e
 uma lista mental de quem ainda deve. Não é cruel, só irredutível: regra é
 regra, e a regra paga o próprio salário dela.
 
+## Aparência
+Postada junto à barreira, livro de pedágio debaixo do braço. Olha o
+rosto de quem chega antes de olhar a bolsa.
+
 ## Voz e Sotaque
 Direta e seca com estranhos, mais solta com quem já conhece. Nunca levanta a
 voz — baixa o tom quando quer ser levada a sério.

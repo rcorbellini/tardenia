@@ -32,6 +32,10 @@ até a esquina mais próxima.
 
 Está no cais porque precisa estar. Devia ter ido embora ontem.
 
+## Aparência
+Magro a ponto de preocupar, roupa larga demais no corpo. Anda
+rápido e olha para os lados mais do que para a frente.
+
 ## Voz e Sotaque
 Fala rápido, atropelado, e ri no meio das frases quando está com medo. Chama
 todo mundo de "chefe".

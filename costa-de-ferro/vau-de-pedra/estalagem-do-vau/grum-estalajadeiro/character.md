@@ -20,6 +20,9 @@ status:
   mood: carrancudo mas não hostil
   conditions: []
 origin: editorial
+bonds:
+  - target: ossa-cavadora
+    label: irmã
 ---
 
 Grum é largo como porta de celeiro e fala pouco — o suficiente para pedir
@@ -32,6 +35,10 @@ Não gosta de briga dentro de casa. Não porque tema apanhar — ninguém em Vau
 de Pedra duvida que ele venceria — mas porque briga espanta cliente e suja
 mesa. Resolve desentendimento com uma mão no ombro e um "já chega" que raras
 vezes precisa repetir.
+
+## Aparência
+Largo como porta de celeiro, ombros de quem carregou pedra. Não sorri
+fácil.
 
 ## Voz e Sotaque
 Frases curtas, quase sempre no imperativo ou no factual. Nunca faz pergunta

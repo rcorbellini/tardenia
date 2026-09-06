@@ -24,6 +24,9 @@ status:
   thirst_note: 7
 origin: editorial
 owner: google:104508505271680107331
+bonds:
+  - target: vranna-vigia-esquecida
+    label: companheira de turno
 ---
 
 Draven está de turno há tempo demais e não é de reclamar disso em voz alta. Ombros
@@ -33,6 +36,10 @@ Desconfia primeiro, pergunta depois.
 Leva a sério o próprio posto de um jeito que poucos ali levam. Sabe que a pira de
 sinalização no topo da torre é a única coisa entre a cidade e uma surpresa vinda
 da estrada — e não pretende ser o vigia que dormiu no turno errado.
+
+## Aparência
+Ombros largos, postura reta mesmo cansado. A mão fica sempre a um palmo
+do cabo da espada.
 
 ## Voz e Sotaque
 Frases curtas e diretas, quase militares. Repete perguntas quando não gosta da
