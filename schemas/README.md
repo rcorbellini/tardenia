@@ -253,6 +253,31 @@ armor:
   conta quando efetivamente VESTIDO — guardado ou segurado protege nada. A
   absorção de um personagem é a soma das peças vestidas.
 
+#### O corpo que luta (spec 068 — arma e couraça naturais)
+
+**Os mesmos dois blocos valem no `character.md`**, para a criatura cuja arma é o
+próprio corpo: a garra do dragão, o casco, as escamas. Um bicho não segura espada nem
+veste gibão — sem isto ele golpearia por 1 de dano (improvisado) e absorveria 0.
+
+```yaml
+# em character.md, no topo — mesmíssimo contrato do item
+weapon:
+  damage: 12          # inteiro >= 1
+  attribute: STR      # STR ou DEX
+armor:
+  protection: 8       # inteiro >= 0
+```
+
+- **Precedência**: quem tem mão e passa uma arma golpeia com ela; a arma natural é o
+  que vale quando **nenhum item foi escolhido**. Bater com um item sem bloco `weapon`
+  (uma pedra) vale improvisado, nunca a garra — a escolha explícita sempre vence.
+- **`armor` de personagem NÃO exige `wearable`**: a pele não se veste. É a única
+  regra que não atravessa do item para o corpo.
+- A couraça natural **soma** com as peças vestidas; nunca substitui.
+- Ambos são **dado editorial**: não estão sob `status.*`, logo o jogo não os muda.
+- Ausentes ⇒ comportamento de sempre (improvisado 1/STR, absorção só do vestido).
+  Nenhum personagem já escrito precisa de edição.
+
 Partes canônicas do corpo (multiplicidade entre parênteses): `cabeca` (1),
 `rosto` (1), `pescoco` (1), `torso` (1), `costas` (1), `bracos` (1), `mao` (2),
 `dedo` (10), `cintura` (1), `pernas` (1), `pes` (1). Pares vestidos como conjunto
