@@ -18,7 +18,7 @@ status:
   fatigue: 8
   action: olhar para Farejador com atenção e tentar entender por que ele está implorando comida
   mood: amigável
-  conditions: "[]"
+  conditions: []
   fatigue_max: 110
   hunger_ts: 1787279729.7323313
   hunger_note: 7

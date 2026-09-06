@@ -18,7 +18,7 @@ status:
   fatigue: baixo
   action: implora comida à Elga, com muita fome
   mood: lastimoso
-  conditions: "[]"
+  conditions: []
 body:
   cabeca: 1
   pescoco: 1

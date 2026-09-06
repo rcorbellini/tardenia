@@ -17,7 +17,7 @@ status:
   fatigue: 0
   action: Nerissa morde a maçã que trazia consigo, mastigando rápido enquanto seus olhos correm pelas barracas da praça.
   mood: satisfeita
-  conditions: colocou a moeda na Bolsa de Couro
+  conditions: []
   fatigue_max: 100
   hunger_ts: 1788290388.2069895
   hunger_note: 6
