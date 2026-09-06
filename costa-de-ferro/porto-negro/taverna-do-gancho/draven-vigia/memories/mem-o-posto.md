@@ -4,7 +4,7 @@ id: mem-o-posto
 kind: acontecimento
 involved: [forja-de-ferro]
 timestamp_start: 1721558234
-timestamp_end: 1788579799
+timestamp_end: 1788898382
 intensity: small
 state: active
 summary: O posto que não abandono
