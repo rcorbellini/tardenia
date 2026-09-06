@@ -19,6 +19,11 @@ status:
   action: imóvel contra a parede fria, respirando devagar
   mood: indiferente
   conditions: []
+body:
+  cabeca: 1
+  torso: 1
+  costas: 1
+  pernas: 1
 weapon:
   damage: 10
   attribute: STR
