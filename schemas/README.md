@@ -262,21 +262,39 @@ dano (improvisado) e absorveria 0.
 
 ```yaml
 body:
-  garras:
-    capacidade: 0             # não guarda nada; é arma, não mão
+  garra_esquerda:             # membro que se conta vai SEPARADO, não por quantidade
     weapon:
       damage: 10              # inteiro >= 1
       attribute: STR          # STR ou DEX
+  garra_direita:
+    weapon: { damage: 10, attribute: STR }
   fauces:
-    capacidade: 0
     weapon: { damage: 7, attribute: STR }
   dorso:
-    capacidade: 1
+    capacidade: 1             # aceita um peitoral
     armor:
       protection: 6           # inteiro >= 0
   cabeca: 1
-  pernas: 1
+  rosto: 1
 ```
+
+- **`capacidade` é OPCIONAL** aqui, e ausente vale 0. Ela conta **peças vestíveis**, não
+  anatomia — uma garra que só golpeia não veste nada e não precisa declarar coisa
+  alguma. Cuidado com a leitura: `dedo: 10` é "cabem dez anéis", `pernas: 1` é "cabe uma
+  calça". O número **nunca** contou membros.
+- **Membro que se conta se declara separado**: `mao_esquerda`/`mao_direita`,
+  `asa_esquerda`/`asa_direita`, `garra_esquerda`/`garra_direita`. Não existe campo de
+  quantidade, e não precisa: o vocabulário de slot é livre. Duas garras = duas partes,
+  e o sorteio do golpe passa a ter duas saídas em vez de uma.
+
+**O dano final soma o ATRIBUTO do bicho**, como já acontece com uma espada:
+
+```
+dano = damage da parte + mod(atributo) − proteção do alvo
+```
+
+A mesma garra `damage 6` fere 3 num gato (STR 4, mod −3) e 12 num dragão (STR 22, mod
++6). O `damage` é a letalidade própria da parte; o atributo é o corpo que a move.
 
 > **`weapon`/`armor` no TOPO do personagem são RECUSADOS pelo validador.** O `body`
 > já é o sistema que diz o que o corpo tem — descrever a mesma coisa por duas vias é

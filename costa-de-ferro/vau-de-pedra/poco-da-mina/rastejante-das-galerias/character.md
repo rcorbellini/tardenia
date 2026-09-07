@@ -21,13 +21,16 @@ status:
   conditions: []
 body:
   cabeca: 1
-  garras:
-    capacidade: 0
+  rosto: 1
+  garra_esquerda:
+    weapon:
+      damage: 10
+      attribute: STR
+  garra_direita:
     weapon:
       damage: 10
       attribute: STR
   fauces:
-    capacidade: 0
     weapon:
       damage: 7
       attribute: STR
@@ -35,7 +38,8 @@ body:
     capacidade: 1
     armor:
       protection: 6
-  pernas: 1
+  pata_traseira_esquerda: 1
+  pata_traseira_direita: 1
 origin: editorial
 ---
 
