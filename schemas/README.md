@@ -253,30 +253,55 @@ armor:
   conta quando efetivamente VESTIDO — guardado ou segurado protege nada. A
   absorção de um personagem é a soma das peças vestidas.
 
-#### O corpo que luta (spec 068 — arma e couraça naturais)
+#### O corpo que luta (spec 068 — a PARTE que golpeia e a que absorve)
 
-**Os mesmos dois blocos valem no `character.md`**, para a criatura cuja arma é o
-próprio corpo: a garra do dragão, o casco, as escamas. Um bicho não segura espada nem
-veste gibão — sem isto ele golpearia por 1 de dano (improvisado) e absorveria 0.
+**Os mesmos dois blocos valem numa PARTE do corpo** — dentro do `body` (spec 019),
+onde o corpo já é descrito. A garra do dragão é uma parte; a couraça de escamas é o
+dorso. Um bicho não segura espada nem veste gibão: sem isto ele golpearia por 1 de
+dano (improvisado) e absorveria 0.
 
 ```yaml
-# em character.md, no topo — mesmíssimo contrato do item
-weapon:
-  damage: 12          # inteiro >= 1
-  attribute: STR      # STR ou DEX
-armor:
-  protection: 8       # inteiro >= 0
+body:
+  garras:
+    capacidade: 0             # não guarda nada; é arma, não mão
+    weapon:
+      damage: 10              # inteiro >= 1
+      attribute: STR          # STR ou DEX
+  fauces:
+    capacidade: 0
+    weapon: { damage: 7, attribute: STR }
+  dorso:
+    capacidade: 1
+    armor:
+      protection: 6           # inteiro >= 0
+  cabeca: 1
+  pernas: 1
 ```
 
-- **Precedência**: quem tem mão e passa uma arma golpeia com ela; a arma natural é o
-  que vale quando **nenhum item foi escolhido**. Bater com um item sem bloco `weapon`
-  (uma pedra) vale improvisado, nunca a garra — a escolha explícita sempre vence.
-- **`armor` de personagem NÃO exige `wearable`**: a pele não se veste. É a única
-  regra que não atravessa do item para o corpo.
-- A couraça natural **soma** com as peças vestidas; nunca substitui.
-- Ambos são **dado editorial**: não estão sob `status.*`, logo o jogo não os muda.
-- Ausentes ⇒ comportamento de sempre (improvisado 1/STR, absorção só do vestido).
-  Nenhum personagem já escrito precisa de edição.
+> **`weapon`/`armor` no TOPO do personagem são RECUSADOS pelo validador.** O `body`
+> já é o sistema que diz o que o corpo tem — descrever a mesma coisa por duas vias é
+> o que o Princípio I proíbe. O nome do slot é livre (`garras`, `fauces`, `ferrao`,
+> `cauda`), como sempre foi.
+
+- **Várias partes armadas convivem.** Golpear com o corpo é **instintivo**, então
+  quando ninguém passa `arma` o mundo **sorteia** a parte — às vezes as garras, às
+  vezes os dentes. Não é a mais forte: é a que vier. A op relata qual foi, e é assim
+  que a narração sabe o que contar.
+- **Precedência**: quem tem mão e passa uma arma golpeia com ela. Bater com um item
+  sem bloco `weapon` (uma pedra) vale improvisado, nunca a garra — a escolha
+  explícita sempre vence.
+- **`armor` de parte NÃO exige `wearable`**: a pele não se veste. É a única regra que
+  não atravessa do item para o corpo.
+- A couraça da parte **soma** com as peças vestidas; nunca substitui.
+- **Dado editorial**: não está sob `status.*`, logo o jogo não o muda.
+- O personagem vê no próprio contexto que a parte é arma (`weapon: true`), **nunca o
+  número** — dano é pontuação de desfecho, e o Princípio IX a reserva ao mundo.
+- Sem partes armadas ⇒ comportamento de sempre (improvisado 1/STR, absorção só do
+  vestido). Nenhum personagem já escrito precisa de edição.
+
+> Ao criar criatura, lembre que **omitir `body` herda o corpo HUMANO inteiro** — com
+> mãos, dedos e torso. Quem tem garra quase sempre quer declarar o próprio corpo, e
+> quem não tem `mao` nem slot com `pega: true` simplesmente não segura nada.
 
 Partes canônicas do corpo (multiplicidade entre parênteses): `cabeca` (1),
 `rosto` (1), `pescoco` (1), `torso` (1), `costas` (1), `bracos` (1), `mao` (2),

@@ -21,14 +21,21 @@ status:
   conditions: []
 body:
   cabeca: 1
-  torso: 1
-  costas: 1
+  garras:
+    capacidade: 0
+    weapon:
+      damage: 10
+      attribute: STR
+  fauces:
+    capacidade: 0
+    weapon:
+      damage: 7
+      attribute: STR
+  dorso:
+    capacidade: 1
+    armor:
+      protection: 6
   pernas: 1
-weapon:
-  damage: 10
-  attribute: STR
-armor:
-  protection: 6
 origin: editorial
 ---
 
