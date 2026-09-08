@@ -41,6 +41,7 @@ body:
   pata_traseira_esquerda: 1
   pata_traseira_direita: 1
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 O Rastejante não é bicho de superfície. Nasceu onde a mina deixou de dar minério e

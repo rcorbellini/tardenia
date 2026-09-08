@@ -9,5 +9,4 @@ state:
   slot: mao
 ---
 
-Uma jarra de barro com água fresca do poço dos fundos, deixada no balcão para
-quem chegar com a garganta seca. Sem gosto de nada além de água limpa e fria.
+jarra de barro, quase cheia

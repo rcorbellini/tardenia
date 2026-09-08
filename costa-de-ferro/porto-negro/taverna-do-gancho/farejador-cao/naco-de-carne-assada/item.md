@@ -10,7 +10,4 @@ state:
   slot: focinho
 ---
 
-Um pedaço farto de carne assada, ainda morno, a gordura reluzindo e escorrendo
-pelas beiradas. A cada movimento sobe um cheiro de carne tostada com ervas —
-daqueles que fazem a boca salivar e o estômago roncar. Elga o separou do ensopado
-da noite, embrulhado num pano sobre o balcão, para roer mais tarde.
+Um pedaço farto de carne assada, ainda morno, a gordura escorrendo pelas beiradas.
