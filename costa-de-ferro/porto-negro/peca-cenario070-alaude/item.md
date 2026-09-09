@@ -25,7 +25,7 @@ prazo:
     verbo: virar
   urgencia: a cola do tampo ainda está mole; secando fora do lugar, a rachadura abre de vez
   descricao_vencida: Viola de tampo rachado, com a cola seca torta e escorrida pela madeira. A rachadura reabriu e o corpo chocalha ao menor toque.
-  vencido_em: null
+  vencido_em: 1788911438.8287032
 ---
 
-Viola Rachada ainda em processo: a rachadura do tampo está aberta, presa por grampos.
+Viola de tampo rachado, com a cola seca torta e escorrida pela madeira. A rachadura reabriu e o corpo chocalha ao menor toque.

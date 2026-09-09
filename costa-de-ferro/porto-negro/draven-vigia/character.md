@@ -15,14 +15,14 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 36
-  action: perguntar
+  action: tenta, mas não consegue completar o que pretendia
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
   thirst: hidratado
   thirst_ts: 1788780651.3998985
   thirst_note: 10
-  hunger_ts: 1788899867.968461
+  hunger_ts: 1788955676.515108
   hunger_note: 6
 origin: editorial
 owner: google:104508505271680107331
