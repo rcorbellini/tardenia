@@ -16,10 +16,13 @@ status:
   hp_max: 100
   hunger: saciado
   thirst: sem sede
-  fatigue: 0
-  action: Pip junta a sucata de forja e tenta martelar alguma coisa útil dela, sem muita técnica.
+  fatigue: 8
+  action: perguntar
   mood: ansioso
   conditions: []
+  thirst_ts: 1789040677.6261768
+  thirst_note: 6
+  fatigue_max: 110
 origin: editorial
 owner: google:104508505271680107331
 bonds:

@@ -6,4 +6,4 @@ weight_kg: 0.2
 origin: emergente
 ---
 
-Uma macieira velha e nodosa que cresceu torta entre duas barracas, com galhos baixos cheios de maçãs vermelhas maduras.
+Uma macieira velha e nodosa, com galhos baixos cheios de maçãs vermelhas maduras.
