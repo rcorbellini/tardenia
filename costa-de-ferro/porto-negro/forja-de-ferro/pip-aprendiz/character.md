@@ -17,7 +17,7 @@ status:
   hunger: saciado
   thirst: sem sede
   fatigue: 8
-  action: perguntar
+  action: age
   mood: ansioso
   conditions: []
   thirst_ts: 1789040677.6261768

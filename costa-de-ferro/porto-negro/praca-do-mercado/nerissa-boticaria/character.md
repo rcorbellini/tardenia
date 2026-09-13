@@ -14,8 +14,8 @@ status:
   hp: 70
   hp_max: 70
   hunger: sem fome
-  fatigue: 0
-  action: Nerissa morde a maçã que trazia consigo, mastigando rápido enquanto seus olhos correm pelas barracas da praça.
+  fatigue: 14
+  action: Pergunta se tem comida ou bebida para vender
   mood: satisfeita
   conditions: []
   fatigue_max: 100

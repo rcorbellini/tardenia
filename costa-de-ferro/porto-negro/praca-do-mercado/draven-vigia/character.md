@@ -15,7 +15,7 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 36
-  action: Comeu Bocado
+  action: perguntar em voz baixa
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
