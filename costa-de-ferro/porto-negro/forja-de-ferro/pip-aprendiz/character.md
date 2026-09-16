@@ -15,13 +15,13 @@ status:
   hp: 100
   hp_max: 100
   hunger: saciado
-  thirst: sem sede
+  thirst: com sede
   fatigue: 8
-  action: perguntar
+  action: age
   mood: ansioso
   conditions: []
-  thirst_ts: 1789040677.6261768
-  thirst_note: 6
+  thirst_ts: 1789514137.0718927
+  thirst_note: 0
   fatigue_max: 110
 origin: editorial
 owner: google:104508505271680107331

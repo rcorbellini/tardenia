@@ -15,13 +15,12 @@ status:
   hp_max: 65
   hunger: saciado
   fatigue: 0
-  action: deitar para dormir
+  action: perguntar
   mood: sereno
   conditions: []
   fatigue_max: 100
   hunger_ts: 1789029994.0540583
   hunger_note: 9
-  descansando_desde: 1789037829.7414744
 origin: editorial
 owner: google:104508505271680107331
 ---

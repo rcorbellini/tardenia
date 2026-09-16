@@ -15,14 +15,14 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 36
-  action: Comeu Bocado
+  action: perguntar
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
   thirst: hidratado
-  thirst_ts: 1788780651.3998985
-  thirst_note: 10
-  hunger_ts: 1789000375.0273626
+  thirst_ts: 1789510699.3024538
+  thirst_note: 9
+  hunger_ts: 1789508165.722016
   hunger_note: 6
 origin: editorial
 owner: google:104508505271680107331

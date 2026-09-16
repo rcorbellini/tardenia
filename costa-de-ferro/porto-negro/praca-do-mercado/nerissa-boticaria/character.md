@@ -14,13 +14,13 @@ status:
   hp: 70
   hp_max: 70
   hunger: sem fome
-  fatigue: 0
-  action: Nerissa morde a maçã que trazia consigo, mastigando rápido enquanto seus olhos correm pelas barracas da praça.
+  fatigue: 10
+  action: pergunta
   mood: satisfeita
   conditions: []
   fatigue_max: 100
-  hunger_ts: 1788290388.2069895
-  hunger_note: 6
+  hunger_ts: 1789513119.701802
+  hunger_note: 3
 origin: editorial
 owner: google:104508505271680107331
 ---

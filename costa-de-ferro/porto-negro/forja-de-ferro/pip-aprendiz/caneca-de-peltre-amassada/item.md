@@ -9,4 +9,4 @@ state:
   slot: mao
 ---
 
-Caneca de peltre, com um amassado fundo
+Caneca de peltre amassada e vazia
