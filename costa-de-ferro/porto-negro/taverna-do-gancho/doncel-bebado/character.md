@@ -21,6 +21,7 @@ status:
   conditions: []
   fatigue_max: 110
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Doncel foi um bom cambista, dizem, antes de descobrir que o vinho da praça era
