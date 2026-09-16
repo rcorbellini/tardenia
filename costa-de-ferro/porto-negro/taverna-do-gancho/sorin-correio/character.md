@@ -23,6 +23,7 @@ status:
   hunger_ts: 1787715065.3194325
   hunger_note: 7
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Sorin correu a estrada entre Vau de Pedra e Porto Negro a vida toda sem

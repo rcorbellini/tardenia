@@ -24,6 +24,7 @@ origin: editorial
 bonds:
   - target: pip-aprendiz
     label: aprendiz
+owner: google:104508505271680107331
 ---
 
 Vinte anos de bigorna, quase todos nesta mesma forja. Fala pouco enquanto o metal está quente e muito depois que esfria. Diz que qualquer um aprende a bater ferro, mas que ouvir o que o ferro responde leva a vida inteira.

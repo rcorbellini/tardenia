@@ -22,6 +22,7 @@ status:
   conditions: []
   fatigue_max: 110
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Guia de trilha, das que sobem e descem a encosta o ano inteiro carregando o que
