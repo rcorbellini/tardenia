@@ -25,6 +25,7 @@ bonds:
     label: cunhada
   - target: vesna-perna-de-pau
     label: companheira de convés
+owner: google:104508505271680107331
 ---
 
 Bram fala pouco e olha muito — sobretudo pro mar. Braços grossos de quem puxa

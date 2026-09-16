@@ -20,6 +20,7 @@ status:
   conditions: []
   fatigue_max: 120
 origin: editorial
+owner: google:104508505271680107331
 ---
 
 Torvin trabalha em Forja de Ferro há quarenta anos. Homem de poucas palavras e

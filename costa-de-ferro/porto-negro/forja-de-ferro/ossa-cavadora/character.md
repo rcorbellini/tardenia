@@ -24,6 +24,7 @@ origin: editorial
 bonds:
   - target: grum-estalajadeiro
     label: irmão
+owner: google:104508505271680107331
 ---
 
 Ossa desce a mina desde os doze anos e já perdeu a conta de quantos vagonetes

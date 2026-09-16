@@ -26,6 +26,7 @@ bonds:
     label: pai
   - target: praca-do-mercado
     label: posto de observação
+owner: google:104508505271680107331
 ---
 
 Mira passou a vida olhando. Filha de estivador, cresceu contando quem entrava e
