@@ -4,8 +4,8 @@ id: mem-obadiah-briga
 kind: acontecimento
 involved: [obadiah-mascate]
 timestamp_start: 1753116338
-timestamp_end: 4228588800
-intensity: giant
+timestamp_end: 1797885955
+intensity: large
 state: active
 summary: Quase o matei; Elga separou
 origin: editorial

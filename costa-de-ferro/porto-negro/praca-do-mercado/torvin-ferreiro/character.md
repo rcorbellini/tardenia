@@ -15,7 +15,7 @@ status:
   hp_max: 120
   hunger: saciado
   fatigue: 32
-  action: o que foi colhido aqui voltou a crescer
+  action: pergunta
   mood: irritado
   conditions: []
   fatigue_max: 120

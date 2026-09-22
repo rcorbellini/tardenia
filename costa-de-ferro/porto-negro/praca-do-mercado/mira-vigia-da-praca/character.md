@@ -14,10 +14,11 @@ status:
   hp: 20
   hp_max: 20
   hunger: saciado
-  fatigue: leve
-  action: o que foi colhido aqui voltou a crescer
+  fatigue: 2
+  action: falar em voz baixa com Hulda
   mood: atento
   conditions: []
+  fatigue_max: 100
 origin: editorial
 bonds:
   - target: hulda-estivadora

@@ -16,7 +16,7 @@ status:
   hp_max: 45
   hunger: faminta
   fatigue: 42
-  action: Ossa decide erguer, encostado na forja, um pequeno cômodo próprio onde possa entrar, fechar a porta e dormir — um…
+  action: perguntar sobre comida disponível na taverna do gancho
   mood: exausta mas resignada
   conditions: []
   fatigue_max: 110
