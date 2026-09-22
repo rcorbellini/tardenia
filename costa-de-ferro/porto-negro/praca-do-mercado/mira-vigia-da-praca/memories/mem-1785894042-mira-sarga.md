@@ -4,9 +4,9 @@ id: mem-1785894042-mira-sarga
 kind: acontecimento
 involved: [sarga-contrabandista, praca-do-mercado]
 timestamp_start: 1785894042
-timestamp_end: 1789729508
+timestamp_end: 1789865993
 intensity: small
-state: active
+state: expired
 summary: Vi Sarga esconder um fardo atrás do poço ao cair a tarde
 domain: crime
 evento: witness_theft
