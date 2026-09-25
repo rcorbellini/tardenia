@@ -1,0 +1,45 @@
+---
+type: character
+id: irmao-tobias
+name: Irmão Tobias
+controlled_by: player_local
+attributes:
+  STR: 9
+  DEX: 10
+  CON: 11
+  INT: 12
+  WIS: 17
+  CHA: 11
+status:
+  hp: 65
+  hp_max: 65
+  hunger: saciado
+  fatigue: 8
+  action: acabou de chegar, ainda se ambientando ao lugar
+  mood: sereno
+  conditions: []
+  fatigue_max: 100
+  hunger_ts: 1790264716.0693312
+  hunger_note: 8
+  thirst: sem sede
+  thirst_ts: 1790264898.2248044
+  thirst_note: 6
+origin: editorial
+owner: google:104508505271680107331
+---
+
+Tobias cuida do santuário há tanto tempo que já não lembra o nome do deus a quem
+ele foi originalmente dedicado — e faz questão de dizer isso a quem pergunta,
+como uma piada só dele. Magro, calvo, movimentos lentos e deliberados.
+
+Já viu o templo cheio, décadas atrás. Hoje recebe raramente alguém além de quem
+busca silêncio ou um atalho pelo pátio dos fundos. Não cobra nada por acender uma
+vela, mas espera que quem entra baixe a voz.
+
+## Aparência
+Magro e calvo, hábito puído nas barras. Move-se devagar, como quem
+não tem pressa há décadas.
+
+## Voz e Sotaque
+Fala devagar, com pausas longas que parecem intencionais. Nunca levanta o tom,
+nem quando está incomodado — só fica mais lento ainda.

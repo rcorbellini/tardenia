@@ -10,4 +10,4 @@ state:
   slot: focinho
 ---
 
-Um pedaço farto de carne assada, ainda morno, a gordura escorrendo pelas beiradas.
+Um pedaço farto de carne assada, ainda morno, a gordura escorrendo pelas beiradas, com cerca da metade comida.

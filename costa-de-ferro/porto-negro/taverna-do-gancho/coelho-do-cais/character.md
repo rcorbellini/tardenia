@@ -17,6 +17,7 @@ status:
   conditions: [morto]
   action: caído de lado, imóvel
   mood: nenhum
+  esquartejado: true
 body:
   cabeca: 1
   tronco: 1

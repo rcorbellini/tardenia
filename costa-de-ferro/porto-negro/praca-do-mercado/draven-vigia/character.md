@@ -13,17 +13,17 @@ attributes:
 status:
   hp: 100
   hp_max: 100
-  hunger: sem fome
+  hunger: saciado
   fatigue: 36
-  action: Comeu Bocado
+  action: comer
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
   thirst: hidratado
   thirst_ts: 1788780651.3998985
   thirst_note: 10
-  hunger_ts: 1789000375.0273626
-  hunger_note: 6
+  hunger_ts: 1790219350.2277353
+  hunger_note: 9
 origin: editorial
 owner: google:104508505271680107331
 bonds:

@@ -16,12 +16,15 @@ status:
   hp_max: 40
   hunger: saciado
   fatigue: 2
-  action: pergunta ao Vranna, a Vigia Esquecida sobre o caminho para Beco das Sombras
+  action: beber
   mood: assustado, mas tentando parecer calmo
   conditions: []
   fatigue_max: 100
   hunger_ts: 1787715065.3194325
   hunger_note: 7
+  thirst: sem sede
+  thirst_ts: 1790282132.5524874
+  thirst_note: 6
 origin: editorial
 owner: google:104508505271680107331
 ---

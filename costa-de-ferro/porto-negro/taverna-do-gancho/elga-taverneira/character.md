@@ -14,14 +14,17 @@ attributes:
 status:
   hp: 90
   hp_max: 90
-  hunger: saciado
+  hunger: sem fome
   fatigue: 8
-  action: olhar para Farejador com atenção e tentar entender por que ele está implorando comida
+  action: beber
   mood: amigável
   conditions: []
   fatigue_max: 110
-  hunger_ts: 1787279729.7323313
-  hunger_note: 7
+  hunger_ts: 1790223353.9214492
+  hunger_note: 6
+  thirst: sem sede
+  thirst_ts: 1790223471.252985
+  thirst_note: 6
 origin: editorial
 owner: google:104508505271680107331
 bonds:

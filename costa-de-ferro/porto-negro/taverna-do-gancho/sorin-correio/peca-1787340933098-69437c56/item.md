@@ -8,4 +8,4 @@ state:
   slot: mao
 ---
 
-Peixe assado, com a pele crocante e o interior macio, sem ossos.
+Peixe assado, com a pele crocante e o interior macio, sem ossos, mas com metade comida.
