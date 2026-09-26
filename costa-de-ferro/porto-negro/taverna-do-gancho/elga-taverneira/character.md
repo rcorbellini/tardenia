@@ -14,17 +14,17 @@ attributes:
 status:
   hp: 90
   hp_max: 90
-  hunger: sem fome
+  hunger: saciado
   fatigue: 8
-  action: beber
+  action: Elga bebe da jarra de água fresca que carrega.
   mood: amigável
   conditions: []
   fatigue_max: 110
-  hunger_ts: 1790223353.9214492
-  hunger_note: 6
-  thirst: sem sede
-  thirst_ts: 1790223471.252985
-  thirst_note: 6
+  hunger_ts: 1790365147.672574
+  hunger_note: 8
+  thirst: hidratado
+  thirst_ts: 1790365153.652051
+  thirst_note: 9
 origin: editorial
 owner: google:104508505271680107331
 bonds:
