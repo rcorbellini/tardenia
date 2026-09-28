@@ -15,16 +15,16 @@ status:
   hp: 90
   hp_max: 90
   hunger: saciado
-  fatigue: 8
-  action: Elga bebe da jarra de água fresca que carrega.
+  fatigue: 10
+  action: o prato que estava no fogo ficou pronto
   mood: amigável
   conditions: []
   fatigue_max: 110
-  hunger_ts: 1790365147.672574
+  hunger_ts: 1790466339.2039235
   hunger_note: 8
-  thirst: hidratado
-  thirst_ts: 1790365153.652051
-  thirst_note: 9
+  thirst: sem sede
+  thirst_ts: 1790466355.5870967
+  thirst_note: 6
 origin: editorial
 owner: google:104508505271680107331
 bonds:
