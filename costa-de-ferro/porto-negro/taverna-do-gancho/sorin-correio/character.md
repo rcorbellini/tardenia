@@ -32,7 +32,7 @@ owner: google:104508505271680107331
 Sorin correu a estrada entre Vau de Pedra e Porto Negro a vida toda sem
 incidente — até esta semana. Chegou mancando, com as costelas roxas e a
 bolsa quase vazia, jurando que "não foram bandidos comuns" quem o cercou na
-curva antes da ponte de corda. Elga o deixou subir sem cobrar, pela primeira
+curva antes da ponte de corda. Elga não lhe cobrou o pouso, pela primeira
 noite pelo menos.
 
 Não fala com estranhos sobre o que carregava. Fala, se perguntarem com jeito,
