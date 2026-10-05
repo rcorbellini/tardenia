@@ -17,7 +17,7 @@ status:
   hunger: sem fome
   thirst: sem sede
   fatigue: 1
-  action: bate a picareta na rocha da galeria, sem pressa
+  action: trabalha a rocha da galeria, sem pressa
   mood: concentrado
   conditions: []
 origin: editorial
@@ -26,5 +26,4 @@ origin: editorial
 Ombros largos de quem passou a vida batendo em pedra, e uma teimosia à altura.
 Torvin desce à galeria antes do sol e sai depois dele, e diz a quem pergunta
 que a mina não deve nada a ninguém: dá o que tem, na medida em que se sabe
-pedir. Carrega a picareta boa na mão direita e, na esquerda, uma colher de pau
-que era da mãe — leva a todo lugar, e ri de quem estranha.
+pedir. Leva a todo lugar uma colher de pau que era da mãe, e ri de quem estranha.

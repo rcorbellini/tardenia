@@ -22,9 +22,9 @@ status:
 origin: editorial
 ---
 
-Odila é aguadeira: leva cântaros de água a todo canto de Porto Negro desde a
-primeira réstia de luz. Conhece cada beco pelo nome e cada nome pelo rosto — e gosta
-de saber, e gosta mais ainda de contar.
+Odila é aguadeira: leva água a todo canto de Porto Negro desde a primeira réstia
+de luz. Conhece cada beco pelo nome e cada nome pelo rosto — e gosta de saber, e gosta
+mais ainda de contar.
 
 Fala com quem passa. Fala com quem não passa. Se alguém para na frente dela com
 cara de perdido, ela já vai apontando antes que a pergunta termine, porque acha

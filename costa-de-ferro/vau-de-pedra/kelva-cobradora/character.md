@@ -27,9 +27,8 @@ rosto de quase todo mundo que passa por ali com regularidade. Forasteiro paga
 o pedágio adiantado e sem discussão — ela não negocia isso, por mais lábia
 que ofereçam, e desconfia de quem diz ser quem não é.
 
-Guarda, num pequeno cofre de madeira preso à barreira, o dinheiro do dia — e
-uma lista mental de quem ainda deve. Não é cruel, só irredutível: regra é
-regra, e a regra paga o próprio salário dela.
+Leva a conta do dia de cabeça, junto com a lista de quem ainda deve. Não é cruel,
+só irredutível: regra é regra, e a regra paga o próprio salário dela.
 
 ## Aparência
 Olha o rosto de quem chega antes de olhar a bolsa.

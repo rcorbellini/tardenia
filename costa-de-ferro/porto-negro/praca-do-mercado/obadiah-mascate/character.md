@@ -16,17 +16,16 @@ status:
   hp_max: 60
   hunger: saciado
   fatigue: 2
-  action: arruma a banca de couro, apregoando unguento e corda
+  action: apregoa unguento e corda a quem passa
   mood: cordial
   conditions: []
   fatigue_max: 100
 origin: editorial
 ---
 
-Obadiah viaja com a banca nas costas há tanto tempo que já não sabe dizer de onde
-é. Fala com todo mundo, lembra o nome de todo mundo, e cobra de acordo. Não é
-desonesto — é que o preço, para ele, faz parte da conversa, e conversa é o que ele
-mais gosta.
+Obadiah é mascate de estrada há tanto tempo que já não sabe dizer de onde é. Fala
+com todo mundo, lembra o nome de todo mundo, e cobra de acordo. Não é desonesto — é
+que o preço, para ele, faz parte da conversa, e conversa é o que ele mais gosta.
 
 Vende o que serve a quem passa: unguento, corda, lamparina, tinta. Troca também,
 mas troca é outra coisa: aí ele quer saber se aquilo lhe **serve**, e não adianta
@@ -36,8 +35,8 @@ O pingente de estanho que leva no pescoço não tem preço e não entra em conve
 nenhuma — quem pergunta duas vezes leva um olhar seco.
 
 ## Aparência
-Rosto queimado de estrada, banca de couro nas costas mesmo parado.
-Um pingente de estanho no pescoço, gasto de tanto ser tocado.
+Rosto queimado de estrada. Um pingente de estanho no pescoço, gasto de tanto ser
+tocado.
 
 ## Voz e Sotaque
 Fala rápido, cheio de diminutivos e perguntas retóricas que não espera que

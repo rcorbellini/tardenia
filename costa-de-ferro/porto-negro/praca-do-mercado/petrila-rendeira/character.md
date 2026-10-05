@@ -16,15 +16,14 @@ status:
   hp_max: 20
   hunger: saciado
   fatigue: leve
-  action: faz renda no banquinho de três pernas, os olhos na praça
+  action: faz renda sentada, os olhos na praça
   mood: quieto
   conditions: []
 origin: editorial
 ---
 
-Petrila faz renda há quarenta anos, num banquinho de três pernas, com a almofada
-no colo e os bilros tinindo. Parece só olhar as mãos — mas as mãos fazem a renda
-sozinhas, e os olhos, esses, andam pela praça inteira.
+Petrila faz renda há quarenta anos. Parece só olhar as mãos — mas as mãos fazem a
+renda sozinhas, e os olhos, esses, andam pela praça inteira.
 
 Sabe quem chegou, quem saiu, quem pagou e quem fingiu pagar. Não conta a
 ninguém, a menos que perguntem direito. Poucos perguntam.

@@ -106,6 +106,10 @@ O body é QUEM ELE É — e o modelo o lê como verdade de AGORA, em toda cena. 
   semana") envelhece no body; na memória ela tem `timestamp_start` e um prazo.
 - **Vai para `status.action`**: o que ele está fazendo AGORA (postura, atividade), coerente com
   o lugar onde ele está. É o que aparece entre parênteses ao lado do nome na cena.
+- **Posse só entra se ele não se desfaz por nada** e é realmente importante para ele (o pingente
+  da irmã do Obadiah, a colher de pau da mãe do Torvin britador) — mantenedor, 05/10/2026. Coisa
+  pode mudar de mão no jogo, e a ficha continuaria dizendo que ele a tem: ferramenta de ofício,
+  banca, cofre e arma ficam de fora (o ofício entra; o objeto, não). Roupa entra como aparência.
 - **Não entra**: posse que não existe como item (a espada que ele não tem vira "a mão no cabo da
   espada" na narração; o gibão que trocou de dono continua "que ela não tira nem no calor"),
   fome e sede (o `status` já mede), nota de autor, e frase de situação que o modelo lê como

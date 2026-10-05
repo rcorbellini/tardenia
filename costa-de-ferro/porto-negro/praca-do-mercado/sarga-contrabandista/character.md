@@ -15,7 +15,7 @@ status:
   hp_max: 85
   hunger: saciado
   fatigue: 60
-  action: observa o movimento da praça, o machado curto ao alcance da mão
+  action: observa o movimento da praça, falando pouco e olhando muito
   mood: furiosa
   conditions: []
   fatigue_max: 110
@@ -24,8 +24,7 @@ origin: editorial
 
 Sarga trabalha na parte do cais onde a névoa é mais espessa e as perguntas são
 menos frequentes. Descarrega o que ninguém declarou e cobra caro pelo silêncio.
-Não é cruel por gosto — é prática, e a prática dela costuma envolver um machado
-ao alcance da mão.
+Não é cruel por gosto — é prática, e resolve depressa quando a conversa não basta.
 
 ## Aparência
 Forte, casaco pesado. Fala pouco e olha muito.
