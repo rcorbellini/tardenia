@@ -37,5 +37,5 @@ Trata bem quem paga e melhor ainda quem conversa. Não tolera briga no seu salã
 quem esquece disso é lembrado depressa.
 
 ## Aparência
-Mãos vermelhas de tanto lidar com água quente, avental preso alto, cabelo puxado
-para trás.
+Mãos vermelhas de tanto lidar com água quente, cabelo puxado para trás. Veste-se
+para o trabalho, sem enfeite.

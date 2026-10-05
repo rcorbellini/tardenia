@@ -18,7 +18,7 @@ status:
   fatigue: 108
   fatigue_max: 110
   descansando_desde: 1786552518
-  action: dorme de boca aberta no banco do fundo, com o chapéu sobre o rosto
+  action: dorme de boca aberta no banco do fundo
   mood: alheio
   conditions: []
 origin: editorial
@@ -28,7 +28,7 @@ Belmiro vende de cidade em cidade e conhece mais estalagens do que casas. Costum
 regatear até o último cobre, e acordado é impossível calá-lo.
 
 ## Aparência
-Chapéu de aba mole, casaco de viajante.
+Veste-se como viajante de estrada, empoeirado.
 
 ## Voz e Sotaque
 Fala rápido e demais, engolindo o fim das frases, com o sotaque de quem vende de

@@ -30,4 +30,4 @@ os outros não querem carregar. Conhece o caminho de olhos fechados e o frio de
 cor.
 
 ## Aparência
-Vestida em camadas contra o frio da encosta. Botas de sola grossa, gastas.
+Veste-se em camadas contra o frio da encosta, como quem vive na trilha.

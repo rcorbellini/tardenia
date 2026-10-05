@@ -36,7 +36,7 @@ Não cobra nada por acender uma vela, mas espera que quem entra no santuário ba
 voz.
 
 ## Aparência
-Magro e calvo, hábito puído nas barras. Move-se devagar, como quem
+Magro e calvo, veste-se como religioso, com roupa velha e puída. Move-se devagar, como quem
 não tem pressa há décadas.
 
 ## Voz e Sotaque

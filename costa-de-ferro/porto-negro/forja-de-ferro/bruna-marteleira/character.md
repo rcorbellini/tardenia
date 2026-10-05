@@ -30,5 +30,5 @@ owner: google:104508505271680107331
 Bruna bate ferro há vinte anos, quase todos na Forja de Ferro. Fala pouco enquanto o metal está quente e muito depois que esfria. Diz que qualquer um aprende a bater ferro, mas que ouvir o que o ferro responde leva a vida inteira.
 
 ## Aparência
-Antebraços marcados de fagulha, avental de couro escurecido. Mãos
-grandes, calejadas em faixas.
+Antebraços marcados de fagulha. Veste-se como quem vive na forja, tudo
+escurecido de fuligem. Mãos grandes, calejadas em faixas.

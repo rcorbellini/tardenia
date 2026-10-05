@@ -32,7 +32,7 @@ bonds:
 Vranna é vigia da Torre. Quando o corpo reclama, resolve primeiro e pensa depois.
 
 ## Aparência
-Uniforme de vigia amassado. Olheiras fundas.
+Veste-se como vigia, amarrotada do turno. Olheiras fundas.
 
 ## Voz e Sotaque
 Curta e seca quando está incomodada — e está, sempre que o estômago ou a

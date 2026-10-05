@@ -35,7 +35,7 @@ quanto a estrada mudou nos últimos meses — mais silenciosa, mais vazia de out
 viajantes, o tipo de vazio que dá mais medo que barulho.
 
 ## Aparência
-Manca de um lado, costelas enfaixadas por baixo da camisa.
+Manca de um lado e poupa as costelas machucadas.
 
 ## Voz e Sotaque
 Fala baixo, poupando o fôlego. Troca de assunto rápido quando alguém pergunta

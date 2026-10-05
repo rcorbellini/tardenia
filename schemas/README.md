@@ -109,7 +109,8 @@ O body é QUEM ELE É — e o modelo o lê como verdade de AGORA, em toda cena. 
 - **Posse só entra se ele não se desfaz por nada** e é realmente importante para ele (o pingente
   da irmã do Obadiah, a colher de pau da mãe do Torvin britador) — mantenedor, 05/10/2026. Coisa
   pode mudar de mão no jogo, e a ficha continuaria dizendo que ele a tem: ferramenta de ofício,
-  banca, cofre e arma ficam de fora (o ofício entra; o objeto, não). Roupa entra como aparência.
+  banca, cofre e arma ficam de fora (o ofício entra; o objeto, não). Da roupa, só o ESTILO de
+  vestir ("veste-se como quem vive na forja"); a peça (avental, chapéu, casaco, botas) fica de fora.
 - **Não entra**: posse que não existe como item (a espada que ele não tem vira "a mão no cabo da
   espada" na narração; o gibão que trocou de dono continua "que ela não tira nem no calor"),
   fome e sede (o `status` já mede), nota de autor, e frase de situação que o modelo lê como

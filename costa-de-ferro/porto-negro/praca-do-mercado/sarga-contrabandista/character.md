@@ -27,7 +27,7 @@ menos frequentes. Descarrega o que ninguém declarou e cobra caro pelo silêncio
 Não é cruel por gosto — é prática, e resolve depressa quando a conversa não basta.
 
 ## Aparência
-Forte, casaco pesado. Fala pouco e olha muito.
+Forte, veste-se pesado, como quem vive no frio do cais. Fala pouco e olha muito.
 
 ## Voz e Sotaque
 Fala pouco e devagar, com o sotaque arrastado de quem cresceu em barco. Não

@@ -15,7 +15,7 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 76
-  action: olhar para o Martelo de Sucata — Martelo de Sucata
+  action: acabou de chegar, ainda se ambientando ao lugar
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
@@ -29,6 +29,12 @@ owner: google:104508505271680107331
 bonds:
   - target: vranna-vigia-esquecida
     label: companheira de turno
+transit:
+  route: acesso-1787857637863-077fb4fc
+  origin: forja-de-ferro
+  destination: local-1787772341985-b1142f6a
+  depart_ts: 1791204054
+  arrive_ts: 1791204064
 ---
 
 Draven é vigia de Porto Negro e leva o posto a sério de um jeito que poucos levam.

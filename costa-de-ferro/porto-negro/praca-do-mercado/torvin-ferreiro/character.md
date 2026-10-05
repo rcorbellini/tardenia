@@ -33,7 +33,7 @@ tem. Se tiver saída, prefere a saída.
 
 ## Aparência
 Grisalho, ombros de bigorna, queimaduras velhas nos antebraços.
-Avental de couro que já foi preto.
+Veste-se para a forja, com roupa que já foi preta.
 
 ## Voz e Sotaque
 Tom grave e direto. Sotaque do norte da ilha, arrasta levemente os erres. Fala

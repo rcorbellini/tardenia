@@ -35,7 +35,7 @@ quem corre já perdeu. Diz que roubar não é ser rápido: é ser a última cois
 que alguém repara.
 
 ## Aparência
-Meia-idade, mãos finas e rápidas, xale sobre os ombros. Anda devagar
+Meia-idade, mãos finas e rápidas, vestida com o recato de senhora de feira. Anda devagar
 e encosta em quem conversa.
 
 ## Voz e Sotaque
