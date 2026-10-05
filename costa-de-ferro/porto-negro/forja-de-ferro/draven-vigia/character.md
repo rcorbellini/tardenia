@@ -15,7 +15,7 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 76
-  action: Entregar o Bocado
+  action: acabou de chegar, ainda se ambientando ao lugar
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
