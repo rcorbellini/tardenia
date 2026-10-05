@@ -15,7 +15,7 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 76
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: olha para Vranna
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
