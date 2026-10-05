@@ -15,26 +15,20 @@ status:
   hp_max: 100
   hunger: sem fome
   fatigue: 76
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: Entregar o Bocado
   mood: tenso
   conditions: [bêbado, doente]
   fatigue_max: 120
   thirst: com sede
   thirst_ts: 1791167254.21634
   thirst_note: 0
-  hunger_ts: 1790474112.4276557
+  hunger_ts: 1791208068.672276
   hunger_note: 4
 origin: editorial
 owner: google:104508505271680107331
 bonds:
   - target: vranna-vigia-esquecida
     label: companheira de turno
-transit:
-  route: acesso-1787857637863-077fb4fc
-  origin: forja-de-ferro
-  destination: local-1787772341985-b1142f6a
-  depart_ts: 1791204054
-  arrive_ts: 1791204064
 ---
 
 Draven é vigia de Porto Negro e leva o posto a sério de um jeito que poucos levam.
