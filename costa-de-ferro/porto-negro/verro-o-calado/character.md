@@ -16,16 +16,16 @@ status:
   hp_max: 24
   hunger: saciado
   fatigue: 2
-  action: esculpir uma estatua de pedra enorme
+  action: amola uma faca num banco de canto, sem levantar os olhos
   mood: irritado
   conditions: []
   fatigue_max: 110
 origin: editorial
 ---
 
-Verro amola facas num banco no canto da praça e não olha para cima. Conhece os
-caminhos — quem passou trinta anos ouvindo conversa alheia conhece —, mas a boca
-dele é a última coisa que se abre.
+Verro amola facas e não olha para cima enquanto trabalha. Conhece os caminhos —
+quem passou trinta anos ouvindo conversa alheia conhece —, mas a boca dele é a
+última coisa que se abre.
 
 Não é malcriado nem guarda mágoa de ninguém em particular. É a índole: aprendeu
 cedo que falar dá trabalho e ouvir dá vantagem, e nunca viu razão para trocar. A
@@ -33,4 +33,4 @@ quem pergunta, mede primeiro. Estranho recebe silêncio; e o silêncio dele não
 recusa, é o preço de entrada.
 
 ## Aparência
-Sentado num banco de canto, amolando faca. Não levanta os olhos.
+Curvado sobre o trabalho, mãos firmes de amolador. Não levanta os olhos.

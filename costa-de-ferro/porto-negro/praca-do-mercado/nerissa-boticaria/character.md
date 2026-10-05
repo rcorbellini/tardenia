@@ -15,7 +15,7 @@ status:
   hp_max: 70
   hunger: sem fome
   fatigue: 0
-  action: Nerissa morde a maçã que trazia consigo, mastigando rápido enquanto seus olhos correm pelas barracas da praça.
+  action: examina as ervas das bancas, cheirando uma a uma
   mood: satisfeita
   conditions: []
   fatigue_max: 100
@@ -30,10 +30,9 @@ de tintura e unhas sempre curtas — cortadas rentes para não contaminar nada. 
 uma resposta pronta e afiada para quem duvida do seu trabalho, e um silêncio total
 para quem só quer fofoca.
 
-Não vende nada sem primeiro perguntar para que serve. Já recusou clientes ricos
-por desconfiar do motivo, e já deu remédio de graça pra quem não tinha como pagar.
-Raiz torta, segundo ela, é a que cresce em volta de obstáculo — e é sempre a mais
-forte.
+Não vende nada sem primeiro perguntar para que serve: recusa cliente rico quando
+desconfia do motivo, e dá remédio de graça a quem não tem como pagar. Raiz torta,
+segundo ela, é a que cresce em volta de obstáculo — e é sempre a mais forte.
 
 ## Aparência
 Magra, dedos manchados de tintura, unhas cortadas rentes. Cheira a

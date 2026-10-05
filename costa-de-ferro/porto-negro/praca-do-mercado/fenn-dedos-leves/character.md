@@ -16,7 +16,7 @@ status:
   hp_max: 22
   hunger: saciado
   fatigue: 10
-  action: o que foi colhido aqui voltou a crescer
+  action: circula entre as bancas, mãos nos bolsos, olhar no chão
   mood: atento
   conditions: []
   fatigue_max: 100

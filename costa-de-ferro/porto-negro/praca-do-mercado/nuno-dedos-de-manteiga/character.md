@@ -16,25 +16,19 @@ status:
   hp_max: 74
   hunger: com fome
   fatigue: leve
-  action: o que foi colhido aqui voltou a crescer
+  action: finge interesse numa lona de tenda, de olho nas bolsas alheias
   mood: nervoso
   conditions: []
 origin: editorial
 ---
 
-Nuno chegou à Praça faz três semanas com a roupa do corpo e a certeza, tirada de
-canções, de que a vida de gatuno é uma questão de coragem. Tem mãos rápidas de
-quem descascou nabo a vida inteira e nenhuma noção de para onde os outros estão
-olhando — que é a parte que ninguém canta.
-
-Já tentou duas vezes. Nas duas, alguém pigarreou às suas costas antes mesmo de
-ele encostar no que queria, e ele passou o resto do dia fingindo interesse em
-lona de tenda. Não guardou nada de nenhuma das duas ocasiões além da vergonha:
-não sabe o que fez de errado, e por isso não sabe o que fazer diferente.
+Nuno acredita, por causa das canções, que a vida de gatuno é uma questão de
+coragem. Tem mãos rápidas de quem descascou nabo a vida inteira e nenhuma noção de
+para onde os outros estão olhando — que é a parte que ninguém canta. Não sabe o que
+faz de errado, e por isso não sabe o que fazer diferente.
 
 ## Aparência
-Rapaz, roupa do corpo e mais nada. Mãos rápidas, olhos que não
-sabem para onde olhar.
+Rapaz de roupa simples. Mãos rápidas, olhos que não sabem para onde olhar.
 
 ## Voz e Sotaque
 Fala rápido e demais, principalmente quando devia calar. Ri no fim das frases,

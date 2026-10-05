@@ -17,7 +17,7 @@ status:
   hunger: saciado
   thirst: sem sede
   fatigue: 0
-  action: Bruna decide erguer um pequeno depósito de ferramentas encostado na parede da forja, aproveitando tábuas e sobras de…
+  action: trabalha o ferro, de olho na cor da brasa
   mood: concentrado
   conditions: []
 origin: editorial
@@ -27,7 +27,7 @@ bonds:
 owner: google:104508505271680107331
 ---
 
-Vinte anos de bigorna, quase todos nesta mesma forja. Fala pouco enquanto o metal está quente e muito depois que esfria. Diz que qualquer um aprende a bater ferro, mas que ouvir o que o ferro responde leva a vida inteira.
+Bruna bate ferro há vinte anos, quase todos na Forja de Ferro. Fala pouco enquanto o metal está quente e muito depois que esfria. Diz que qualquer um aprende a bater ferro, mas que ouvir o que o ferro responde leva a vida inteira.
 
 ## Aparência
 Antebraços marcados de fagulha, avental de couro escurecido. Mãos

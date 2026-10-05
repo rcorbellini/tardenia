@@ -29,14 +29,10 @@ bonds:
     label: companheiro de turno
 ---
 
-Vranna passou o último turno de vigia na Torre e só agora conseguiu descer até
-a Taverna do Gancho — vestígio de ração seca no bolso, cantil vazio há muito.
-Não teve tempo de comer nem beber direito desde que subiu à torre; só pensa em
-sentar e resolver os dois de uma vez.
+Vranna é vigia da Torre. Quando o corpo reclama, resolve primeiro e pensa depois.
 
 ## Aparência
-Uniforme de vigia amassado do turno inteiro, cantil vazio pendurado.
-Olheiras fundas.
+Uniforme de vigia amassado. Olheiras fundas.
 
 ## Voz e Sotaque
 Curta e seca quando está incomodada — e está, sempre que o estômago ou a

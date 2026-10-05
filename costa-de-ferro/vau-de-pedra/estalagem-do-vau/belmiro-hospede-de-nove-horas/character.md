@@ -24,18 +24,11 @@ status:
 origin: editorial
 ---
 
-Belmiro chegou de madrugada com poeira de três dias no casaco, pagou a cama sem
-regatear — coisa que ninguém nesta estalagem jamais o viu fazer — e caiu no banco
-do fundo antes de o Grum ter tempo de mostrar o quarto. Está lá desde então, o
-chapéu de aba mole cobrindo o rosto, e nem o barulho dos dados de pedra na mesa ao
-lado o alcança.
-
-Dorme como quem descontou de uma vez a soma de todas as noites que a estrada lhe
-cobrou. Quando acordar, vai lembrar que devia estar em outro lugar.
+Belmiro vende de cidade em cidade e conhece mais estalagens do que casas. Costuma
+regatear até o último cobre, e acordado é impossível calá-lo.
 
 ## Aparência
-Caído no banco do fundo, chapéu de aba mole cobrindo o rosto.
-Casaco com poeira de três dias.
+Chapéu de aba mole, casaco de viajante.
 
 ## Voz e Sotaque
 Fala rápido e demais, engolindo o fim das frases, com o sotaque de quem vende de

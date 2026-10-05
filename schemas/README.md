@@ -97,6 +97,20 @@ Obrigatórios: `type`, `id`, `name`, `controlled_by`, `attributes`, `skills`, `s
     nada é apagado: a pasta do caído permanece inteira, com pertences saqueáveis.
 Pasta do personagem pode conter `/memories/` e sub-pastas de `item`.
 
+### O que vai no body da ficha (retrofit de 04/10/2026)
+O body é QUEM ELE É — e o modelo o lê como verdade de AGORA, em toda cena. Por isso:
+- **Fica**: personalidade, valores, crenças, medos; hábito dito como hábito ("costuma",
+  "nunca"); ofício; aparência que não muda de uma cena para outra; voz e sotaque.
+- **Vai para memória** (`memories/`, na 1ª pessoa, `origin: editorial`): o que ACONTECEU uma
+  vez — a chegada, o assalto, a perda, a descoberta. Data relativa ("há três semanas", "esta
+  semana") envelhece no body; na memória ela tem `timestamp_start` e um prazo.
+- **Vai para `status.action`**: o que ele está fazendo AGORA (postura, atividade), coerente com
+  o lugar onde ele está. É o que aparece entre parênteses ao lado do nome na cena.
+- **Não entra**: posse que não existe como item (a espada que ele não tem vira "a mão no cabo da
+  espada" na narração; o gibão que trocou de dono continua "que ela não tira nem no calor"),
+  fome e sede (o `status` já mede), nota de autor, e frase de situação que o modelo lê como
+  agora ("raramente levanta os olhos da panela" fez a Elga recusar tudo no meio da praça).
+
 Persuasão (spec 007) NÃO adiciona schema: a vontade do alvo (0–10) é decidida pelo
 Árbitro a cada tentativa, pela régua canônica, e nunca é gravada em arquivo. O
 persuadido viaja pela rota como qualquer viajante (`transit` normal). O CHA de quem

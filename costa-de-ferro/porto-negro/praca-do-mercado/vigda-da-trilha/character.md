@@ -17,7 +17,7 @@ status:
   hunger: com fome
   thirst: sem sede
   fatigue: 11
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: ajeita as camadas de roupa, olhando a praça como quem procura a saída
   mood: apreensiva
   conditions: []
   fatigue_max: 110
@@ -27,8 +27,7 @@ owner: google:104508505271680107331
 
 Guia de trilha, das que sobem e descem a encosta o ano inteiro carregando o que
 os outros não querem carregar. Conhece o caminho de olhos fechados e o frio de
-cor. Parou na clareira porque a luz acabou, não porque quisesse.
+cor.
 
 ## Aparência
-Vestida em camadas contra o frio da encosta, fardo grande nas costas.
-Botas de sola grossa, gastas.
+Vestida em camadas contra o frio da encosta. Botas de sola grossa, gastas.

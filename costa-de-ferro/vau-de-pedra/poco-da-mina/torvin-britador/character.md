@@ -17,7 +17,7 @@ status:
   hunger: sem fome
   thirst: sem sede
   fatigue: 1
-  action: parado
+  action: bate a picareta na rocha da galeria, sem pressa
   mood: concentrado
   conditions: []
 origin: editorial

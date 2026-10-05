@@ -1,7 +1,7 @@
 ---
 type: item
 id: peca-1790245976372-cd0057fa
-name: Remendo (em processo)
+name: Remendo (em processo), já não presta
 origin: emergente
 trabalho:
   tool: craft

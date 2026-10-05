@@ -17,7 +17,7 @@ status:
   hunger: saciado
   thirst: sem sede
   fatigue: 8
-  action: perguntar
+  action: rodeia a bigorna, querendo ajudar antes de ser chamado
   mood: ansioso
   conditions: []
   thirst_ts: 1789040677.6261768
@@ -30,7 +30,7 @@ bonds:
     label: mestra
 ---
 
-Chegou há três semanas e ainda queima os dedos. Tem pressa, o que é o pior defeito possível numa forja, e sabe disso — o que só o deixa com mais pressa.
+Pip é aprendiz de forja e ainda queima os dedos. Tem pressa, o que é o pior defeito possível numa forja, e sabe disso — o que só o deixa com mais pressa.
 
 ## Aparência
 Jovem, dedos enfaixados em dois lugares. Anda depressa mesmo quando não

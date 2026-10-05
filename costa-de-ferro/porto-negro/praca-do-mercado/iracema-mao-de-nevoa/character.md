@@ -16,7 +16,7 @@ status:
   hp_max: 70
   hunger: saciado
   fatigue: leve
-  action: o que foi colhido aqui voltou a crescer
+  action: elogia o tecido de uma banca, encostada em quem conversa
   mood: entediada
   conditions: []
 origin: editorial

@@ -15,7 +15,7 @@ status:
   hp_max: 95
   hunger: faminto
   fatigue: moderado
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: bebe devagar num canto, olhando a porta como quem olha o mar
   mood: menos preocupado
   conditions: []
   inventory[0]: caneca-de-peltre-amassada
@@ -33,9 +33,7 @@ rede desde criança, pele curtida de sal e sol. Não confia em quem nunca perdeu
 nada pra água.
 
 Conhece toda fofoca do cais mas só solta em troca de bebida ou silêncio
-respeitoso. Já ouviu falar da taverneira que perdeu o marido numa manhã de vento
-norte — ele estava lá, mais rio abaixo, quando aconteceu, e não gosta de falar
-sobre isso.
+respeitoso. Não gosta de falar da manhã em que a taverneira perdeu o marido.
 
 ## Aparência
 Braços grossos, pele curtida de sal e sol, unhas partidas. Cheira a

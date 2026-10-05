@@ -16,7 +16,7 @@ status:
   hp_max: 60
   hunger: saciado
   fatigue: 2
-  action: o que foi colhido aqui voltou a crescer
+  action: arruma a banca de couro, apregoando unguento e corda
   mood: cordial
   conditions: []
   fatigue_max: 100
@@ -30,17 +30,10 @@ mais gosta.
 
 Vende o que serve a quem passa: unguento, corda, lamparina, tinta. Troca também,
 mas troca é outra coisa: aí ele quer saber se aquilo lhe **serve**, e não adianta
-oferecer algo caro que ele não vá usar nem revender. Já recusou uma adaga de prata
-por não ter o que fazer com ela, e aceitou um par de botas velhas porque as dele
-estavam pedindo água.
+oferecer algo caro que ele não vá usar nem revender.
 
-Carrega no pescoço um pingente de estanho que era da irmã. Esse não tem preço e
-não entra em conversa nenhuma — quem pergunta duas vezes leva um olhar seco.
-
-Faz anos que trocou o cais de Porto Negro pela poeira de Vau de Pedra — a mina
-paga melhor e briga menos por preço. Ainda assim, de vez em quando alguém que
-vem da costa traz notícia do ferreiro de lá, e Obadiah sempre pergunta, com
-aquele desinteresse estudado que engana pouca gente.
+O pingente de estanho que leva no pescoço não tem preço e não entra em conversa
+nenhuma — quem pergunta duas vezes leva um olhar seco.
 
 ## Aparência
 Rosto queimado de estrada, banca de couro nas costas mesmo parado.

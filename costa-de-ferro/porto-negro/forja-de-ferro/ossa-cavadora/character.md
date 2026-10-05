@@ -16,7 +16,7 @@ status:
   hp_max: 45
   hunger: faminta
   fatigue: 42
-  action: perguntar sobre comida disponível na taverna do gancho
+  action: tosse a poeira da mina, encostada na parede da forja
   mood: exausta mas resignada
   conditions: []
   fatigue_max: 110
@@ -32,10 +32,7 @@ puxou. Tem a voz rouca de quem respira poeira mais do que ar puro, e uma tosse
 que finge não ouvir. Não reclama do trabalho — reclama do capataz da guilda,
 que pesa o minério "sempre um pouco a menos do que devia".
 
-Guarda um pedaço de minério com veio de prata que jura ter achado sozinha, sem
-registrar — se a guilda soubesse, ela devolveria ou perderia o emprego.
-Ninguém em Vau de Pedra sabe disso, e ela pretende manter assim até decidir o
-que fazer com a pedra.
+Guarda para si o que acha na mina, até da guilda.
 
 ## Aparência
 Baixa e dura, poeira de mina entranhada nas dobras da pele. Tosse

@@ -15,7 +15,7 @@ status:
   hp_max: 20
   hunger: saciado
   fatigue: 2
-  action: falar em voz baixa com Hulda
+  action: fala em voz baixa com Hulda, sem tirar os olhos de quem passa
   mood: atento
   conditions: []
   fatigue_max: 100

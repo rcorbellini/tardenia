@@ -15,7 +15,7 @@ status:
   hp_max: 120
   hunger: saciado
   fatigue: 32
-  action: pergunta
+  action: olha o movimento da praça de braços cruzados, carrancudo
   mood: irritado
   conditions: []
   fatigue_max: 120

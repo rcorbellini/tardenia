@@ -17,24 +17,18 @@ status:
   hunger: saciado
   fatigue: 100
   fatigue_max: 100
-  action: Quinha se levanta da mesa e caminha em direção a Grum, o Estalajadeiro.
+  action: de pé por teimosia, repetindo que ainda vai conferir o eixo da carroça
   mood: teimosa de cansaço
   conditions: []
 origin: editorial
 ---
 
-Quinha desceu a serra com carga dupla porque o outro carroceiro desistiu na metade,
-e chegou à Estalagem do Vau com as mãos ainda em forma de rédea. Está de pé — de pé
-por teimosia, que é a única coisa que lhe sobrou — e sabe muito bem que devia
-deitar. Diz que só vai fechar os olhos depois de conferir o eixo da carroça, e há
-duas horas repete isso sem sair da mesa.
-
-O contraste com o Belmiro é o que ela mais detesta: ele dorme no banco do fundo
-desde a madrugada, e ela não conseguiu nem sentar.
+Quinha é carroceira de serra: desce e sobe a estrada com o que tiver de levar.
+Teimosa até o osso — não diz "estou cansada", diz "ainda dá", e não deita antes de
+conferir o eixo da carroça.
 
 ## Aparência
-De pé por teimosia, mãos ainda em forma de rédea. Roupa de estrada
-encharcada de suor seco.
+Mãos com calo de rédea, roupa de estrada.
 
 ## Voz e Sotaque
 Frases curtas, sem cerimônia, e uma teimosia que aparece na escolha de nunca dizer

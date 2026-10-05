@@ -15,19 +15,16 @@ status:
   hp_max: 60
   hunger: saciado
   fatigue: moderado
-  action: Renn pega o lingote de aço de vau e tenta bater uma corda-guia de metal simples pro alaúde, imitando o gesto dos…
+  action: cantarola baixo, batucando a melodia na bancada
   mood: nostálgico
   conditions: []
 origin: editorial
 ---
 
-Renn chegou na Taverna do Gancho há três semanas dizendo que ficaria só uma
-noite. Canta bem, bebe melhor, e sabe exatamente que história contar pra cada
+Renn canta bem, bebe melhor, e sabe exatamente que história contar pra cada
 mesa. Sorriso fácil, olhos que fogem quando alguém pergunta de onde ele veio.
 
 Carrega mais rumores do que qualquer um na cidade — e usa isso como moeda.
-Guarda uma carta que nunca teve coragem de entregar, dobrada no fundo da bolsa,
-lida tantas vezes que o vinco já rasga o papel.
 
 ## Aparência
 Bem-apessoado, roupa boa e um pouco suja de estrada. Sorriso pronto;

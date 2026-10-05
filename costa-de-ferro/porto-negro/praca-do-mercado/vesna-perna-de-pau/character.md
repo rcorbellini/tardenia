@@ -16,7 +16,7 @@ status:
   hp_max: 100
   hunger: saciado
   fatigue: moderado
-  action: o que foi colhido aqui voltou a crescer
+  action: apoiada no toco de carvalho, desconfiada de quem se aproxima
   mood: desconfiada
   conditions: []
 body:
@@ -37,10 +37,10 @@ bonds:
     label: companheiro de convés
 ---
 
-Vesna passou trinta anos no convés antes que uma amarra estourada levasse metade da
-perna esquerda para o fundo. Hoje anda sobre um toco de carvalho lixado até brilhar,
-e conhece cada tábua podre do Cais Velho pelo som que faz. Braços de quem puxou corda
-a vida inteira; olhar de quem já viu carga demais mudar de dono no escuro.
+Vesna passou trinta anos no convés, e conhece cada tábua podre do Cais Velho pelo
+som que faz. Anda sobre um toco de carvalho lixado até brilhar no lugar da perna
+esquerda. Braços de quem puxou corda a vida inteira; olhar de quem já viu carga
+demais mudar de dono no escuro.
 
 O pé de madeira não calça bota nem grilhão — e ela gosta assim. Diz que aprendeu a
 confiar mais no toco do que em muita gente de dois pés.

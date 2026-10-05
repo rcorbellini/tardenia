@@ -16,7 +16,7 @@ status:
   hp_max: 40
   hunger: saciado
   fatigue: 2
-  action: beber
+  action: encolhido à mesa, poupando as costelas
   mood: assustado, mas tentando parecer calmo
   conditions: []
   fatigue_max: 100
@@ -29,19 +29,13 @@ origin: editorial
 owner: google:104508505271680107331
 ---
 
-Sorin correu a estrada entre Vau de Pedra e Porto Negro a vida toda sem
-incidente — até esta semana. Chegou mancando, com as costelas roxas e a
-bolsa quase vazia, jurando que "não foram bandidos comuns" quem o cercou na
-curva antes da ponte de corda. Elga não lhe cobrou o pouso, pela primeira
-noite pelo menos.
-
-Não fala com estranhos sobre o que carregava. Fala, se perguntarem com jeito,
-sobre o quanto a estrada mudou nos últimos meses — mais silenciosa, mais
-vazia de outros viajantes, o tipo de vazio que dá mais medo que barulho.
+Sorin é correio: corre a estrada entre Vau de Pedra e Porto Negro a vida toda. Não
+fala com estranhos sobre o que carrega. Fala, se perguntarem com jeito, sobre o
+quanto a estrada mudou nos últimos meses — mais silenciosa, mais vazia de outros
+viajantes, o tipo de vazio que dá mais medo que barulho.
 
 ## Aparência
-Manca de um lado, costelas enfaixadas por baixo da camisa. Bolsa de
-correio quase vazia a tiracolo.
+Manca de um lado, costelas enfaixadas por baixo da camisa.
 
 ## Voz e Sotaque
 Fala baixo, poupando o fôlego. Troca de assunto rápido quando alguém pergunta

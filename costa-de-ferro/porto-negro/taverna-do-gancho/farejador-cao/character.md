@@ -16,7 +16,7 @@ status:
   hp_max: 45
   hunger: extremo
   fatigue: baixo
-  action: implora comida à Elga, com muita fome
+  action: fareja os cantos da taverna atrás de sobras
   mood: lastimoso
   conditions: []
 body:

@@ -15,7 +15,7 @@ status:
   hp_max: 65
   hunger: saciado
   fatigue: 8
-  action: acabou de chegar, ainda se ambientando ao lugar
+  action: observa o movimento da praça em silêncio, as mãos escondidas nas mangas
   mood: sereno
   conditions: []
   fatigue_max: 100
@@ -32,9 +32,8 @@ Tobias cuida do santuário há tanto tempo que já não lembra o nome do deus a 
 ele foi originalmente dedicado — e faz questão de dizer isso a quem pergunta,
 como uma piada só dele. Magro, calvo, movimentos lentos e deliberados.
 
-Já viu o templo cheio, décadas atrás. Hoje recebe raramente alguém além de quem
-busca silêncio ou um atalho pelo pátio dos fundos. Não cobra nada por acender uma
-vela, mas espera que quem entra baixe a voz.
+Não cobra nada por acender uma vela, mas espera que quem entra no santuário baixe a
+voz.
 
 ## Aparência
 Magro e calvo, hábito puído nas barras. Move-se devagar, como quem

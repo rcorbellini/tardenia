@@ -27,8 +27,7 @@ bonds:
 ---
 
 Bramm carrega fardo de navio sozinho e planta os pés como quem lançou raiz. Ninguém
-o tira de onde ele decidiu ficar — já tentaram, no braço, e desistiram. Não briga:
-só não sai. É o contraponto vivo de quem se põe para fora fácil.
+o tira de onde ele decidiu ficar. Não briga: só não sai.
 
 ## Aparência
 Enorme, de pés plantados e braços de fardo. Fica onde está de um

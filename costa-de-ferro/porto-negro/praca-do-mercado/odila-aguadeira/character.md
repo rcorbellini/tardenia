@@ -16,15 +16,15 @@ status:
   hp_max: 22
   hunger: saciado
   fatigue: leve
-  action: o que foi colhido aqui voltou a crescer
+  action: conversa com quem passa, apontando caminhos antes de a pergunta terminar
   mood: alegre
   conditions: []
 origin: editorial
 ---
 
-Odila puxa o carrinho de água pela praça desde a primeira réstia de luz, e não há
-canto de Porto Negro onde não tenha entregado um cântaro. Conhece cada beco pelo
-nome e cada nome pelo rosto — e gosta de saber, e gosta mais ainda de contar.
+Odila é aguadeira: leva cântaros de água a todo canto de Porto Negro desde a
+primeira réstia de luz. Conhece cada beco pelo nome e cada nome pelo rosto — e gosta
+de saber, e gosta mais ainda de contar.
 
 Fala com quem passa. Fala com quem não passa. Se alguém para na frente dela com
 cara de perdido, ela já vai apontando antes que a pergunta termine, porque acha
@@ -32,5 +32,4 @@ que gente perdida na cidade dela é falha sua. Não pede nada em troca: a conver
 já é o pagamento.
 
 ## Aparência
-Puxa um carrinho de cântaros que range. Voz alta, rosto vermelho de
-sol, sempre falando com alguém.
+Voz alta, rosto vermelho de sol, sempre falando com alguém.

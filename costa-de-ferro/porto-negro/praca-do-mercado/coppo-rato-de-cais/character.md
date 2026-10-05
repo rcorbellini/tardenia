@@ -15,7 +15,7 @@ status:
   hp_max: 14
   hunger: faminto
   fatigue: 15
-  action: o que foi colhido aqui voltou a crescer
+  action: rói as unhas num canto da praça, de olho em quem passa
   mood: nervoso
   conditions: []
   fatigue_max: 80
@@ -29,8 +29,6 @@ Coppo é magro de um jeito que preocupa, e rápido de um jeito que compensa. Viv
 do que cai dos fardos e do que ninguém conferiu direito. Nunca ganhou uma briga
 na vida e tem plena consciência disso — a estratégia dele sempre foi a distância
 até a esquina mais próxima.
-
-Está no cais porque precisa estar. Devia ter ido embora ontem.
 
 ## Aparência
 Magro a ponto de preocupar, roupa larga demais no corpo. Anda

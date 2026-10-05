@@ -16,7 +16,7 @@ status:
   hp_max: 24
   hunger: saciado
   fatigue: 8
-  action: "Doncel se aproxima de Coppo e pergunta em voz baixa: 'Você sabe o caminho para Beco das Sombras?'"
+  action: meio caído sobre a mesa, a cabeça pesada de vinho
   mood: lerdo
   conditions: []
   fatigue_max: 110
@@ -25,15 +25,13 @@ owner: google:104508505271680107331
 ---
 
 Doncel foi um bom cambista, dizem, antes de descobrir que o vinho da praça era
-mais barato à tarde. Agora passa o dia meio caído sobre a própria mesa, a balança
-de moedas parada, a cabeça pesada.
+mais barato à tarde. Passa os dias meio caído sobre a mesa, a cabeça pesada.
 
 Podia haver um incêndio a três passos e ele juraria depois que não viu nada — e
 estaria dizendo a verdade. O mundo, para Doncel, acontece do outro lado de uma
 neblina morna.
 
 ## Aparência
-Caído sobre a própria mesa, uma balança de moedas parada ao lado.
 Roupa boa, amarrotada de dormir vestido.
 
 ## Voz e Sotaque

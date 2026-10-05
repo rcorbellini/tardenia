@@ -27,17 +27,15 @@ origin: editorial
 
 Moura ficou na boca da mina porque é para onde os feridos vêm, e não porque goste de
 mina. Remenda quem chega: mineiro esmagado, perna quebrada na trilha, mão aberta na
-pedra. Já viu homem morrer segurando a mão dela, e desde então decidiu uma coisa e não
-voltou atrás — não devolve. Nem golpe, nem palavra. Diz que quem revida vira o que
-bateu nele, e que já tem trabalho demais costurando o estrago dos outros para começar
-a fazer o seu. Ela vê tudo o que acontece na boca da mina, e não reage a nada.
+pedra. Não devolve — nem golpe, nem palavra. Diz que quem revida vira o que bateu
+nele, e que já tem trabalho demais costurando o estrago dos outros para começar a
+fazer o seu. Ela vê tudo o que acontece na boca da mina, e não reage a nada.
 
 ## Aparência
 
-Magra, de mãos secas e unhas curtas, sempre de joelhos sobre um pano com raízes
-separadas por tamanho. Olha para quem chega antes de a pessoa falar — atenta, nunca
-assustada. Tem um corte antigo atravessando o dorso da mão esquerda, mal costurado
-por ela mesma.
+Magra, de mãos secas e unhas curtas. Olha para quem chega antes de a pessoa falar —
+atenta, nunca assustada. Tem um corte antigo atravessando o dorso da mão esquerda,
+mal costurado por ela mesma.
 
 ## Voz e Sotaque
 

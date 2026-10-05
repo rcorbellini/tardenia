@@ -16,7 +16,7 @@ status:
   hp_max: 86
   hunger: saciado
   fatigue: moderado
-  action: o que foi colhido aqui voltou a crescer
+  action: anda entre as tendas apregoando a quinquilharia do tabuleiro
   mood: satisfeito
   conditions: []
 origin: editorial
@@ -24,16 +24,14 @@ origin: editorial
 
 Bento carrega a loja no peito: um tabuleiro de madeira preso por alça de couro,
 coberto de quinquilharia arrumada por preço. Passa o dia andando entre as tendas
-alheias, o que faz dele o comerciante mais visto e o mais mal vigiado da Praça —
-as duas mãos ocupadas segurando o próprio tabuleiro.
+alheias, o que faz dele o comerciante mais visto e o mais mal vigiado da Praça.
 
-Fala com todo mundo e olha para o próprio pregão. Já perdeu peça sem nunca ter
-visto ninguém pegar, e resolveu o assunto consigo mesmo decidindo que devia ter
-caído.
+Fala com todo mundo e olha para o próprio pregão. Quando some uma peça sem que ele
+tenha visto ninguém pegar, decide consigo mesmo que ela devia ter caído.
 
 ## Aparência
-Carrega um tabuleiro de madeira preso ao peito por alça de
-couro, coberto de quinquilharia. As duas mãos sempre ocupadas segurando-o.
+Tabuleiro de madeira preso ao peito por alça de couro, coberto de
+quinquilharia.
 
 ## Voz e Sotaque
 Grita o pregão em frases decoradas e conversa em voz normal no meio delas, sem

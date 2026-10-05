@@ -15,7 +15,7 @@ status:
   hp_max: 85
   hunger: saciado
   fatigue: 60
-  action: o que foi colhido aqui voltou a crescer
+  action: observa o movimento da praça, o machado curto ao alcance da mão
   mood: furiosa
   conditions: []
   fatigue_max: 110
@@ -27,12 +27,8 @@ menos frequentes. Descarrega o que ninguém declarou e cobra caro pelo silêncio
 Não é cruel por gosto — é prática, e a prática dela costuma envolver um machado
 ao alcance da mão.
 
-Uma carga sumiu na semana passada. Sarga sabe quem levou, sabe onde ele bebe, e
-está sem paciência para a terceira desculpa.
-
 ## Aparência
-Forte, casaco pesado, um machado curto sempre ao alcance da mão.
-Fala pouco e olha muito.
+Forte, casaco pesado. Fala pouco e olha muito.
 
 ## Voz e Sotaque
 Fala pouco e devagar, com o sotaque arrastado de quem cresceu em barco. Não

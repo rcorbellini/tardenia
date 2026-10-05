@@ -17,20 +17,17 @@ status:
   hunger_ts: 1787155465.2375922
   hunger_note: 8
   fatigue: 10
-  action: Ossian dá uma mordida na costela de coelho crua.
+  action: descansa à mesa, puxando assunto sobre tecidos com quem passa
   mood: satisfeito
   conditions: []
 origin: editorial
 ---
 
-Ossian comeu bem numa parada a caminho de Porto Negro — um prato quente, sem
-pressa — e chegou à Taverna do Gancho satisfeito, só de passagem para descansar
-antes de tratar de negócios na praça. Carrega uma bolsa de amostras de tecido
-que tenta vender a quem parar para ouvir.
+Ossian é mercador de tecidos: vive de mostrar amostras a quem parar para ouvir, e
+viaja de cidade em cidade tratando de negócios.
 
 ## Aparência
-Roupa de viagem limpa demais para quem veio de longe. Carrega uma
-bolsa de amostras de tecido.
+Roupa de viagem limpa demais para quem veio de longe.
 
 ## Voz e Sotaque
 Fala rápido e educado, sempre pronto a puxar assunto sobre o próprio comércio.

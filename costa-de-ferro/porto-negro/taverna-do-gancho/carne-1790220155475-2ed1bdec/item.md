@@ -1,7 +1,7 @@
 ---
 type: item
 id: carne-1790220155475-2ed1bdec
-name: Carne e Couro
+name: Carne e Couro, já não presta
 weight_kg: 0.36
 origin: emergente
 prazo:
